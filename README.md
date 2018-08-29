@@ -8088,3 +8088,2429 @@ http://srv.mtvs.me:8880/series/D1eK8lcdcM/vo1tNfthXR/16978.mp4
 http://srv.mtvs.me:8880/series/D1eK8lcdcM/vo1tNfthXR/16979.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Historia de Deus com Morgan Freeman S01 E06" tvg-logo="http://painel.iptvmove.com:80/images/iNpgxmWo33aJJeQqellTcPACdcf_small.jpg" group-title="SERIE: A HISTORIA DE DEUS",A Historia de Deus com Morgan Freeman S01 E06
 http://srv.mtvs.me:8880/series/D1eK8lcdcM/vo1tNfthXR/16980.mp4
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/046ddf96c233a27.mpg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/2d2ca7eedf739ef.mpg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/35c5a2cb362c4d2.wmv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/60243f9b1ac2dba.mp4
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/6775a0635c30254.mp4
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/71d7232b9fed020.mp4
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/970af30e481057c.mpg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/980ecd059122ce2.mpg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/98d8a23fd60826a.avi
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/9a49a25d845a483.wmv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/a9986cb066812f4.wmv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/ab541d874c7bc19.avi
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/ae587cfeea5ac21.avi
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/aff1621254f7c1b.mpg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/b60c5ab647a2704.mpg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/c3008b2c6f5370b.mp4
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/c52f1bd66cc19d0.mpg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/c5b2cebf15b2055.mp4
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/cda72177eba360f.mpeg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/d47844673f2db74.avi
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/e369853df766fa4.mpg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/e761813f83dfc86.avi
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/f8e59f4b2fe7c57.avi
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/original_videos/fc49306d97602c8.mpg
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/000f4505a9b23b9.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/001ea3c1794d40d.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0048716186c3682.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/00752bafd185b5f.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/00757c2890aeaab.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/00a7ddc3ce9f293.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/00b796c304a82ad.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/00bb566ba924c49.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/00c623f0e1a9b4d.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/00c9c1808f5c60a.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/01003666d480343.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/010acecc0fadf99.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/011a36b2130c43e.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/01209a40575f70d.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0132974f40b0b4c.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/016b5bb1b09cbb3.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0191f4fe2d364b9.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0199c99cedb279e.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/01c4acbbdde0291.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/01d7d2f3343f188.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/01f721a21e7afa8.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/021e3ee0ee6e551.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/02386f698c32d1a.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0252e47a7e4f26f.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/02596abfe536f4c.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/025b87208aea848.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/02638e330d56652.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0266ec2b7bb464d.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0294f0cd1dbe8e7.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/02a506716eaa05d.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/02ae9f235bc7ca0.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/02b655f012745cc.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/02d584eee1a61e6.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/02dc2a6adc3abb6.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/03065cbe6f7ced4.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0332de394e9aabf.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/034ce27cb7364cc.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/035d1818ae2f5b5.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/036d62e7916f733.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0397a6867665697.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/03a78a3aa0b4d0c.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/03b2e3a0c8b9f47.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/03c520a673ecec9.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/03c8ef6fc578d64.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/03d718bd946fdf8.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/03ebcdba8015053.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/03f9bdf834212a6.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/03fe5df084cff80.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/042ef692aceab42.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/042f52dd12d5847.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/04343dcc2146897.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/043b41b6247ceb6.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/043bae266046fde.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/043e92ac687fa6d.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/04449851c8389c6.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/04480288bfc0bc8.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/046cd4bdecb3560.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0489d2f8f7c322f.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/04a8cadfc5ac1f2.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/04d0bd34a14e199.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/04daddc82ca849e.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/04ea1f67a72f09e.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/04f3cc62a8e5978.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0504e70f07cfc90.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/050d0d014dc106f.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/052247fe77a0215.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/05325f51b8a50d1.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/05512992c82af97.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/05712c932a92d4f.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0574beb2966131c.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/05ab79a083821d3.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/05bd326b1bfcdfd.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/05e4f5706408503.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/061e5f33a090e78.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0645b1d5c28c178.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0663f27b78466cf.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/066806df93e9f33.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0689ffa1cfbe3b9.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/068c21687ea816a.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/06a087c7eeb7603.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/06b13c5af619d1a.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/06cc511b97a29f3.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/06d49fb994fcbd1.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/06f1d427573209f.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/06fdb3890a473fb.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/071801b418d6b97.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/072fc594710942f.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/073bb0d9fd02755.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/07435ed71b1211c.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/075f52e1f14831f.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/076f77aa675b12e.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0778e088965008a.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/07b8fac716db18a.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/07d72607a6ae163.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/07e8c1b837e2147.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/07ffbada826a9bb.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0811030a5d3f1a4.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/08199f27fbe1a3b.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/081a2f2f2e07dd6.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/081f328dbff2618.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/086528d29241f96.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/08774957dfd75b4.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/087a4f15540cacd.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/087abbdc37cc6b8.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/08833db9fb4e017.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/08834959be26293.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/08922db9115c964.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/08a2a980708e4cf.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/08a2cbc04fc9f83.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/0904032e5e00420.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/090b9e620fe209e.flv
+
+#EXTINF:-1 tvg-logo="http://s2.glbimg.com/xvrcshCWqwqLTLcgV3OYAOoY1xU=/s.glbimg.com/jo/g1/f/original/2016/04/08/luana_SJH8UWR.jpg" group-title="ADULTO 18",PORNO CASEROS
+http://bangextreme.se/files/trimed_videos/095117d5cdd5576.flv 
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_avataylor_emmastoned032514/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakotaskye040314/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_tiffanyfox030514/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan061914/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_jennaross040414/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_kaceyjordan031914/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloefoster021214/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dillionharper030614/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://ir.net/wp-content/uploads/2016/05/a1-6-1024x627.jpg" group-title="ADULTO 4K",ADULT 4K
+http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_emmastoned03414/content/vid01.mp4
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://finevids.xxx/get_file/1/3d6feb808a0edfcedea916dfbed0f428/82000/82103/82103.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://finevids.xxx/get_file/1/197767f6be9c3d33665cde6f29d4f8fb/81000/81697/81697.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://finevids.xxx/get_file/1/19f697e62f022a60d5b943276787785d/82000/82071/82071.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://finevids.xxx/get_file/1/0a0b117bc9a6a1ed64c0ced9cedc4f0c/81000/81667/81667.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+
+#EXTINF:-1 tvg-logo="http://xxxbabespics.com/ddd/thumbs/7820bd.jpg" group-title="ADULTO XXX Babes",XXX Babes
+http://anysex.com/get_file/1/e14c8e773b9a3ed22ce42000db76a91a/203000/203211/203211.mp4/
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Caroline baianinha na safadeza com o primo atrás da árvore
+http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-278.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Caroline parte 2
+http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-279.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Foi pro pagodão e tomou pentada violenta no toalete
+http://www.flagras.blog.br/wp-content/uploads/2017/03/flagras-306.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Flagra Atrás Da Moita Da Festa Rave Rende Um Belo Flagrante Sexual
+http://www.flagras.blog.br/wp-content/uploads/2016/11/flagras-114.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Trepada Na Balada Rende Uma Bom Flagra De Sexo Pra Galera
+http://www.flagras.blog.br/wp-content/uploads/2016/10/flagras-095.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Sexo Na Praia Com Esposa Gorda Fogosa
+http://www.flagras.blog.br/wp-content/uploads/2016/08/sexo-na-praia.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Flagra Vizinha Trepando Com Dois Putos
+http://www.flagras.blog.br/wp-content/uploads/2016/07/Flagra-vizinha-dando.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Flagrou Putaria Real Com Novinha Brasileira
+http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-da-Karina.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Fodendo Amante Novinha Gostosa Transando No Banheiro
+http://www.flagras.blog.br/wp-content/uploads/2016/06/Flagra-amador-do-moleque-comendo-a-ficante-no-banheiro-da-ca.flv.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Novinha Transando Com Colegas Do Bairro Onde Mora
+http://www.flagras.blog.br/wp-content/uploads/2016/04/Suruba-da-novinha.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Suruba Com Novinha Do Interior Da Bahia
+http://www.flagras.blog.br/wp-content/uploads/2016/04/V%C3%ADdeo-de-suruba.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Flagra De Sexo Na Escola
+http://www.flagras.blog.br/wp-content/uploads/2016/02/escola3.mp4
+
+#EXTINF:-1 tvg-logo="https://content.wafflegirl.com/galleries/gthumb/0/501/501349_5ed1c07_900x2999.jpg" group-title="18+AdultosAmador" ,Fodendo Empregada Negra Novinha Gostosa
+http://www.flagras.blog.br/wp-content/uploads/2016/02/empregada1.mp4
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3351/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3360/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3449/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3450/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3451/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3481/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3453/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3454/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3455/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3480/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3479/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3458/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3361/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3459/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3460/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3461/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3462/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3463/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3478/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3465/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3350/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3291/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3292/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3362/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3293/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3294/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3295/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3296/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3297/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3298/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3477/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3300/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3301/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3302/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3489/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3303/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3304/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3305/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3306/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3307/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3308/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3309/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3310/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3311/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3312/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3488/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3313/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3314/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3315/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3316/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3317/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3318/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3475/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3474/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3321/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3471/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3365/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3323/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3324/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3325/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3326/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3469/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3330/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3331/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3332/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3366/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3333/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3334/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3335/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3336/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3337/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3338/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3339/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3340/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3468/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3342/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3367/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3343/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3344/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3466/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3347/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3348/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3349/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3490/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3491/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3492/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3368/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3493/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3494/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3495/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3496/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3497/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3498/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3499/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3500/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3501/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3503/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3369/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3504/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3505/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3507/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3508/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3509/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3510/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3511/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3512/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3513/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3514/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3352/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3487/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3515/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3516/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3517/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3518/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS204
+http://static.brazzers.com/scenes/3520/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS205
+http://static.brazzers.com/scenes/3521/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS206
+http://static.brazzers.com/scenes/3522/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS207
+http://static.brazzers.com/scenes/3526/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS208
+http://static.brazzers.com/scenes/3527/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS209
+http://static.brazzers.com/scenes/3528/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS21
+http://static.brazzers.com/scenes/3371/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS210
+http://static.brazzers.com/scenes/3529/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS211
+http://static.brazzers.com/scenes/3530/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS212
+http://static.brazzers.com/scenes/3531/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS213
+http://static.brazzers.com/scenes/3534/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS214
+http://static.brazzers.com/scenes/3535/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS215
+http://static.brazzers.com/scenes/3536/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS216
+http://static.brazzers.com/scenes/3537/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS217
+http://static.brazzers.com/scenes/3538/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS218
+http://static.brazzers.com/scenes/3539/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS219
+http://static.brazzers.com/scenes/3540/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS22
+http://static.brazzers.com/scenes/3372/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS220
+http://static.brazzers.com/scenes/3541/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS221
+http://static.brazzers.com/scenes/3542/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS222
+http://static.brazzers.com/scenes/3543/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS223
+http://static.brazzers.com/scenes/3544/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS224
+http://static.brazzers.com/scenes/3545/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS225
+http://static.brazzers.com/scenes/3546/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS227
+http://static.brazzers.com/scenes/3547/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS228
+http://static.brazzers.com/scenes/3548/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS229
+http://static.brazzers.com/scenes/3549/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS23
+http://static.brazzers.com/scenes/3373/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS230
+http://static.brazzers.com/scenes/3550/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS231
+http://static.brazzers.com/scenes/3551/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS232
+http://static.brazzers.com/scenes/3552/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS233
+http://static.brazzers.com/scenes/3553/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS234
+http://static.brazzers.com/scenes/3554/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS235
+http://static.brazzers.com/scenes/3555/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS236
+http://static.brazzers.com/scenes/3556/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS237
+http://static.brazzers.com/scenes/3557/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS238
+http://static.brazzers.com/scenes/3558/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS239
+http://static.brazzers.com/scenes/3559/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS24
+http://static.brazzers.com/scenes/3374/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS240
+http://static.brazzers.com/scenes/3560/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS241
+http://static.brazzers.com/scenes/3561/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS242
+http://static.brazzers.com/scenes/3562/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS243
+http://static.brazzers.com/scenes/3563/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS244
+http://static.brazzers.com/scenes/3564/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS245
+http://static.brazzers.com/scenes/3565/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS246
+http://static.brazzers.com/scenes/3566/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS247
+http://static.brazzers.com/scenes/3567/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS248
+http://static.brazzers.com/scenes/3568/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS249
+http://static.brazzers.com/scenes/3569/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS25
+http://static.brazzers.com/scenes/3375/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS250
+http://static.brazzers.com/scenes/3570/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS251
+http://static.brazzers.com/scenes/3571/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS252
+http://static.brazzers.com/scenes/3572/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS253
+http://static.brazzers.com/scenes/3573/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS254
+http://static.brazzers.com/scenes/3575/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS255
+http://static.brazzers.com/scenes/3576/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS256
+http://static.brazzers.com/scenes/3577/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS257
+http://static.brazzers.com/scenes/3586/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS258
+http://static.brazzers.com/scenes/3588/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS259
+http://static.brazzers.com/scenes/3589/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS26
+http://static.brazzers.com/scenes/3376/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS260
+http://static.brazzers.com/scenes/3590/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS261
+http://static.brazzers.com/scenes/3591/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS262
+http://static.brazzers.com/scenes/3592/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS263
+http://static.brazzers.com/scenes/3593/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS264
+http://static.brazzers.com/scenes/3594/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS265
+http://static.brazzers.com/scenes/3595/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS266
+http://static.brazzers.com/scenes/3596/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS267
+http://static.brazzers.com/scenes/3597/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS268
+http://static.brazzers.com/scenes/3598/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS269
+http://static.brazzers.com/scenes/3599/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS27
+http://static.brazzers.com/scenes/3377/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS270
+http://static.brazzers.com/scenes/3600/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS271
+http://static.brazzers.com/scenes/3601/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS272
+http://static.brazzers.com/scenes/3602/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS273
+http://static.brazzers.com/scenes/3603/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS274
+http://static.brazzers.com/scenes/3604/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS275
+http://static.brazzers.com/scenes/3605/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS276
+http://static.brazzers.com/scenes/3606/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS277
+http://static.brazzers.com/scenes/3607/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS278
+http://static.brazzers.com/scenes/3608/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS279
+http://static.brazzers.com/scenes/3609/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS28
+http://static.brazzers.com/scenes/3378/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS280
+http://static.brazzers.com/scenes/3610/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS281
+http://static.brazzers.com/scenes/3611/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS282
+http://static.brazzers.com/scenes/3612/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS283
+http://static.brazzers.com/scenes/3613/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS284
+http://static.brazzers.com/scenes/3614/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS285
+http://static.brazzers.com/scenes/3615/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS286
+http://static.brazzers.com/scenes/3616/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS287
+http://static.brazzers.com/scenes/3617/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS288
+http://static.brazzers.com/scenes/3619/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS289
+http://static.brazzers.com/scenes/3620/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS29
+http://static.brazzers.com/scenes/3379/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS290
+http://static.brazzers.com/scenes/3621/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS291
+http://static.brazzers.com/scenes/3622/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS292
+http://static.brazzers.com/scenes/3623/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS293
+http://static.brazzers.com/scenes/3625/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS294
+http://static.brazzers.com/scenes/3626/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS295
+http://static.brazzers.com/scenes/3627/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS296
+http://static.brazzers.com/scenes/3628/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS297
+http://static.brazzers.com/scenes/3629/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS298
+http://static.brazzers.com/scenes/3630/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS299
+http://static.brazzers.com/scenes/3631/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS3
+http://static.brazzers.com/scenes/3353/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS30
+http://static.brazzers.com/scenes/3380/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS300
+http://static.brazzers.com/scenes/3632/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS31
+http://static.brazzers.com/scenes/3381/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS32
+http://static.brazzers.com/scenes/3382/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS33
+http://static.brazzers.com/scenes/3383/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS34
+http://static.brazzers.com/scenes/3384/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS35
+http://static.brazzers.com/scenes/3385/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS36
+http://static.brazzers.com/scenes/3386/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS37
+http://static.brazzers.com/scenes/3387/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS38
+http://static.brazzers.com/scenes/3388/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS39
+http://static.brazzers.com/scenes/3485/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS4
+http://static.brazzers.com/scenes/3354/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS40
+http://static.brazzers.com/scenes/3389/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS41
+http://static.brazzers.com/scenes/3390/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS42
+http://static.brazzers.com/scenes/3391/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS43
+http://static.brazzers.com/scenes/3392/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS44
+http://static.brazzers.com/scenes/3393/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS45
+http://static.brazzers.com/scenes/3394/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS46
+http://static.brazzers.com/scenes/3395/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS47
+http://static.brazzers.com/scenes/3396/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS48
+http://static.brazzers.com/scenes/3397/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS49
+http://static.brazzers.com/scenes/3398/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS5
+http://static.brazzers.com/scenes/3355/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS50
+http://static.brazzers.com/scenes/3483/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS51
+http://static.brazzers.com/scenes/3400/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS52
+http://static.brazzers.com/scenes/3401/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS53
+http://static.brazzers.com/scenes/3402/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS54
+http://static.brazzers.com/scenes/3482/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS55
+http://static.brazzers.com/scenes/3404/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS56
+http://static.brazzers.com/scenes/3405/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS57
+http://static.brazzers.com/scenes/3406/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS58
+http://static.brazzers.com/scenes/3407/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS59
+http://static.brazzers.com/scenes/3408/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS6
+http://static.brazzers.com/scenes/3356/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS60
+http://static.brazzers.com/scenes/3409/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS61
+http://static.brazzers.com/scenes/3410/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS62
+http://static.brazzers.com/scenes/3411/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS63
+http://static.brazzers.com/scenes/3412/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS64
+http://static.brazzers.com/scenes/3413/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS65
+http://static.brazzers.com/scenes/3414/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS66
+http://static.brazzers.com/scenes/3415/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS67
+http://static.brazzers.com/scenes/3416/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS68
+http://static.brazzers.com/scenes/3417/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS69
+http://static.brazzers.com/scenes/3418/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS7
+http://static.brazzers.com/scenes/3357/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS70
+http://static.brazzers.com/scenes/3419/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS71
+http://static.brazzers.com/scenes/3420/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS72
+http://static.brazzers.com/scenes/3421/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS73
+http://static.brazzers.com/scenes/3422/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS74
+http://static.brazzers.com/scenes/3423/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS75
+http://static.brazzers.com/scenes/3424/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS76
+http://static.brazzers.com/scenes/3425/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS77
+http://static.brazzers.com/scenes/3426/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS78
+http://static.brazzers.com/scenes/3427/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS79
+http://static.brazzers.com/scenes/3428/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS8
+http://static.brazzers.com/scenes/3358/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS80
+http://static.brazzers.com/scenes/3429/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS81
+http://static.brazzers.com/scenes/3430/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS82
+http://static.brazzers.com/scenes/3431/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS83
+http://static.brazzers.com/scenes/3432/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS84
+http://static.brazzers.com/scenes/3433/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS85
+http://static.brazzers.com/scenes/3434/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS86
+http://static.brazzers.com/scenes/3435/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS87
+http://static.brazzers.com/scenes/3436/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS88
+http://static.brazzers.com/scenes/3437/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS89
+http://static.brazzers.com/scenes/3438/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS9
+http://static.brazzers.com/scenes/3359/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS90
+http://static.brazzers.com/scenes/3439/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS91
+http://static.brazzers.com/scenes/3440/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS92
+http://static.brazzers.com/scenes/3441/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS93
+http://static.brazzers.com/scenes/3442/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS94
+http://static.brazzers.com/scenes/3443/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS95
+http://static.brazzers.com/scenes/3444/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS96
+http://static.brazzers.com/scenes/3445/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS97
+http://static.brazzers.com/scenes/3446/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS98
+http://static.brazzers.com/scenes/3447/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS99
+http://static.brazzers.com/scenes/3448/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3327/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3328/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3329/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3330/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3340/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3341/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3342/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3343/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3344/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS1
+http://static.brazzers.com/scenes/3351/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS10
+http://static.brazzers.com/scenes/3360/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS100
+http://static.brazzers.com/scenes/3449/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS101
+http://static.brazzers.com/scenes/3450/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS102
+http://static.brazzers.com/scenes/3451/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS103
+http://static.brazzers.com/scenes/3481/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS104
+http://static.brazzers.com/scenes/3453/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS105
+http://static.brazzers.com/scenes/3454/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS106
+http://static.brazzers.com/scenes/3455/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS107
+http://static.brazzers.com/scenes/3480/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS108
+http://static.brazzers.com/scenes/3479/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS109
+http://static.brazzers.com/scenes/3458/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS11
+http://static.brazzers.com/scenes/3361/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS110
+http://static.brazzers.com/scenes/3459/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS111
+http://static.brazzers.com/scenes/3460/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS112
+http://static.brazzers.com/scenes/3461/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS113
+http://static.brazzers.com/scenes/3462/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS114
+http://static.brazzers.com/scenes/3463/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS115
+http://static.brazzers.com/scenes/3478/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS116
+http://static.brazzers.com/scenes/3465/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS117
+http://static.brazzers.com/scenes/3350/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS118
+http://static.brazzers.com/scenes/3291/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS119
+http://static.brazzers.com/scenes/3292/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS12
+http://static.brazzers.com/scenes/3362/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS120
+http://static.brazzers.com/scenes/3293/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS121
+http://static.brazzers.com/scenes/3294/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS122
+http://static.brazzers.com/scenes/3295/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS123
+http://static.brazzers.com/scenes/3296/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS124
+http://static.brazzers.com/scenes/3297/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS125
+http://static.brazzers.com/scenes/3298/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS126
+http://static.brazzers.com/scenes/3477/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS127
+http://static.brazzers.com/scenes/3300/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS128
+http://static.brazzers.com/scenes/3301/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS129
+http://static.brazzers.com/scenes/3302/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS13
+http://static.brazzers.com/scenes/3489/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS130
+http://static.brazzers.com/scenes/3303/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS131
+http://static.brazzers.com/scenes/3304/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS132
+http://static.brazzers.com/scenes/3305/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS133
+http://static.brazzers.com/scenes/3306/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS134
+http://static.brazzers.com/scenes/3307/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS135
+http://static.brazzers.com/scenes/3308/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS136
+http://static.brazzers.com/scenes/3309/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS137
+http://static.brazzers.com/scenes/3310/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS138
+http://static.brazzers.com/scenes/3311/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS139
+http://static.brazzers.com/scenes/3312/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS14
+http://static.brazzers.com/scenes/3488/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS140
+http://static.brazzers.com/scenes/3313/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS141
+http://static.brazzers.com/scenes/3314/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS142
+http://static.brazzers.com/scenes/3315/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS143
+http://static.brazzers.com/scenes/3316/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS144
+http://static.brazzers.com/scenes/3317/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS145
+http://static.brazzers.com/scenes/3318/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS146
+http://static.brazzers.com/scenes/3475/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS147
+http://static.brazzers.com/scenes/3474/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS148
+http://static.brazzers.com/scenes/3321/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS149
+http://static.brazzers.com/scenes/3471/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS15
+http://static.brazzers.com/scenes/3365/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS150
+http://static.brazzers.com/scenes/3323/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS151
+http://static.brazzers.com/scenes/3324/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS152
+http://static.brazzers.com/scenes/3325/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS153
+http://static.brazzers.com/scenes/3326/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS154
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS155
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS156
+http://static.brazzers.com/scenes/3469/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS157
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS158
+http://static.brazzers.com/scenes/3331/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS159
+http://static.brazzers.com/scenes/3332/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS16
+http://static.brazzers.com/scenes/3366/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS160
+http://static.brazzers.com/scenes/3333/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS161
+http://static.brazzers.com/scenes/3334/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS162
+http://static.brazzers.com/scenes/3335/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS163
+http://static.brazzers.com/scenes/3336/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS164
+http://static.brazzers.com/scenes/3337/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS165
+http://static.brazzers.com/scenes/3338/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS166
+http://static.brazzers.com/scenes/3339/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS167
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS168
+http://static.brazzers.com/scenes/3468/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS169
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS17
+http://static.brazzers.com/scenes/3367/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS170
+http://static.brazzers.com/scenes/3343/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS171
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS172
+http://static.brazzers.com/scenes/3345/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS173
+http://static.brazzers.com/scenes/3466/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS174
+http://static.brazzers.com/scenes/3347/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS175
+http://static.brazzers.com/scenes/3348/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS176
+http://static.brazzers.com/scenes/3349/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS177
+http://static.brazzers.com/scenes/3490/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS178
+http://static.brazzers.com/scenes/3491/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS179
+http://static.brazzers.com/scenes/3492/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS18
+http://static.brazzers.com/scenes/3368/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS180
+http://static.brazzers.com/scenes/3493/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS181
+http://static.brazzers.com/scenes/3494/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS182
+http://static.brazzers.com/scenes/3495/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS183
+http://static.brazzers.com/scenes/3496/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS184
+http://static.brazzers.com/scenes/3497/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS185
+http://static.brazzers.com/scenes/3498/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS186
+http://static.brazzers.com/scenes/3499/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS187
+http://static.brazzers.com/scenes/3500/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS188
+http://static.brazzers.com/scenes/3501/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS189
+http://static.brazzers.com/scenes/3503/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS19
+http://static.brazzers.com/scenes/3369/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS190
+http://static.brazzers.com/scenes/3504/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS191
+http://static.brazzers.com/scenes/3505/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS192
+http://static.brazzers.com/scenes/3507/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS193
+http://static.brazzers.com/scenes/3508/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS194
+http://static.brazzers.com/scenes/3509/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS195
+http://static.brazzers.com/scenes/3510/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS196
+http://static.brazzers.com/scenes/3511/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS197
+http://static.brazzers.com/scenes/3512/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS198
+http://static.brazzers.com/scenes/3513/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS199
+http://static.brazzers.com/scenes/3514/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS2
+http://static.brazzers.com/scenes/3352/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS20
+http://static.brazzers.com/scenes/3487/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS200
+http://static.brazzers.com/scenes/3515/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS201
+http://static.brazzers.com/scenes/3516/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS202
+http://static.brazzers.com/scenes/3517/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS203
+http://static.brazzers.com/scenes/3518/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS204
+http://static.brazzers.com/scenes/3520/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS205
+http://static.brazzers.com/scenes/3521/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS206
+http://static.brazzers.com/scenes/3522/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS207
+http://static.brazzers.com/scenes/3526/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS208
+http://static.brazzers.com/scenes/3527/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS209
+http://static.brazzers.com/scenes/3528/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS21
+http://static.brazzers.com/scenes/3371/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS210
+http://static.brazzers.com/scenes/3529/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS211
+http://static.brazzers.com/scenes/3530/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS212
+http://static.brazzers.com/scenes/3531/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS213
+http://static.brazzers.com/scenes/3534/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS214
+http://static.brazzers.com/scenes/3535/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS215
+http://static.brazzers.com/scenes/3536/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS216
+http://static.brazzers.com/scenes/3537/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS217
+http://static.brazzers.com/scenes/3538/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS218
+http://static.brazzers.com/scenes/3539/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS219
+http://static.brazzers.com/scenes/3540/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS22
+http://static.brazzers.com/scenes/3372/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS220
+http://static.brazzers.com/scenes/3541/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS221
+http://static.brazzers.com/scenes/3542/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS222
+http://static.brazzers.com/scenes/3543/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS223
+http://static.brazzers.com/scenes/3544/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS224
+http://static.brazzers.com/scenes/3545/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS225
+http://static.brazzers.com/scenes/3546/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS227
+http://static.brazzers.com/scenes/3547/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS228
+http://static.brazzers.com/scenes/3548/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS229
+http://static.brazzers.com/scenes/3549/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS23
+http://static.brazzers.com/scenes/3373/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS230
+http://static.brazzers.com/scenes/3550/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS231
+http://static.brazzers.com/scenes/3551/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS232
+http://static.brazzers.com/scenes/3552/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS233
+http://static.brazzers.com/scenes/3553/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS234
+http://static.brazzers.com/scenes/3554/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS235
+http://static.brazzers.com/scenes/3555/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS236
+http://static.brazzers.com/scenes/3556/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS237
+http://static.brazzers.com/scenes/3557/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS238
+http://static.brazzers.com/scenes/3558/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS239
+http://static.brazzers.com/scenes/3559/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS24
+http://static.brazzers.com/scenes/3374/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS240
+http://static.brazzers.com/scenes/3560/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS241
+http://static.brazzers.com/scenes/3561/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS242
+http://static.brazzers.com/scenes/3562/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS243
+http://static.brazzers.com/scenes/3563/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS244
+http://static.brazzers.com/scenes/3564/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS245
+http://static.brazzers.com/scenes/3565/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS246
+http://static.brazzers.com/scenes/3566/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS247
+http://static.brazzers.com/scenes/3567/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS248
+http://static.brazzers.com/scenes/3568/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS249
+http://static.brazzers.com/scenes/3569/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS25
+http://static.brazzers.com/scenes/3375/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS250
+http://static.brazzers.com/scenes/3570/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS251
+http://static.brazzers.com/scenes/3571/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS252
+http://static.brazzers.com/scenes/3572/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS253
+http://static.brazzers.com/scenes/3573/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS254
+http://static.brazzers.com/scenes/3575/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS255
+http://static.brazzers.com/scenes/3576/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS256
+http://static.brazzers.com/scenes/3577/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS257
+http://static.brazzers.com/scenes/3586/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS258
+http://static.brazzers.com/scenes/3588/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS259
+http://static.brazzers.com/scenes/3589/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS26
+http://static.brazzers.com/scenes/3376/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS260
+http://static.brazzers.com/scenes/3590/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS261
+http://static.brazzers.com/scenes/3591/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS262
+http://static.brazzers.com/scenes/3592/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS263
+http://static.brazzers.com/scenes/3593/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS264
+http://static.brazzers.com/scenes/3594/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS265
+http://static.brazzers.com/scenes/3595/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS266
+http://static.brazzers.com/scenes/3596/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS267
+http://static.brazzers.com/scenes/3597/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS268
+http://static.brazzers.com/scenes/3598/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS269
+http://static.brazzers.com/scenes/3599/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS27
+http://static.brazzers.com/scenes/3377/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS270
+http://static.brazzers.com/scenes/3600/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS271
+http://static.brazzers.com/scenes/3601/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS272
+http://static.brazzers.com/scenes/3602/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS273
+http://static.brazzers.com/scenes/3603/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS274
+http://static.brazzers.com/scenes/3604/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS275
+http://static.brazzers.com/scenes/3605/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS276
+http://static.brazzers.com/scenes/3606/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS277
+http://static.brazzers.com/scenes/3607/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS278
+http://static.brazzers.com/scenes/3608/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS279
+http://static.brazzers.com/scenes/3609/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS28
+http://static.brazzers.com/scenes/3378/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS280
+http://static.brazzers.com/scenes/3610/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS281
+http://static.brazzers.com/scenes/3611/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS282
+http://static.brazzers.com/scenes/3612/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS283
+http://static.brazzers.com/scenes/3613/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS284
+http://static.brazzers.com/scenes/3614/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS285
+http://static.brazzers.com/scenes/3615/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS286
+http://static.brazzers.com/scenes/3616/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS287
+http://static.brazzers.com/scenes/3617/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS288
+http://static.brazzers.com/scenes/3619/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS289
+http://static.brazzers.com/scenes/3620/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS29
+http://static.brazzers.com/scenes/3379/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS290
+http://static.brazzers.com/scenes/3621/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS291
+http://static.brazzers.com/scenes/3622/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS292
+http://static.brazzers.com/scenes/3623/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS293
+http://static.brazzers.com/scenes/3625/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS294
+http://static.brazzers.com/scenes/3626/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS295
+http://static.brazzers.com/scenes/3627/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS296
+http://static.brazzers.com/scenes/3628/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS297
+http://static.brazzers.com/scenes/3629/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS298
+http://static.brazzers.com/scenes/3630/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS299
+http://static.brazzers.com/scenes/3631/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS3
+http://static.brazzers.com/scenes/3353/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS30
+http://static.brazzers.com/scenes/3380/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS300
+http://static.brazzers.com/scenes/3632/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS31
+http://static.brazzers.com/scenes/3381/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS32
+http://static.brazzers.com/scenes/3382/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS33
+http://static.brazzers.com/scenes/3383/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS34
+http://static.brazzers.com/scenes/3384/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS35
+http://static.brazzers.com/scenes/3385/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS36
+http://static.brazzers.com/scenes/3386/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS37
+http://static.brazzers.com/scenes/3387/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS38
+http://static.brazzers.com/scenes/3388/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS39
+http://static.brazzers.com/scenes/3485/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS4
+http://static.brazzers.com/scenes/3354/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS40
+http://static.brazzers.com/scenes/3389/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS41
+http://static.brazzers.com/scenes/3390/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS42
+http://static.brazzers.com/scenes/3391/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS43
+http://static.brazzers.com/scenes/3392/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS44
+http://static.brazzers.com/scenes/3393/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS45
+http://static.brazzers.com/scenes/3394/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS46
+http://static.brazzers.com/scenes/3395/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS47
+http://static.brazzers.com/scenes/3396/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS48
+http://static.brazzers.com/scenes/3397/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS49
+http://static.brazzers.com/scenes/3398/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS5
+http://static.brazzers.com/scenes/3355/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS50
+http://static.brazzers.com/scenes/3483/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS51
+http://static.brazzers.com/scenes/3400/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS52
+http://static.brazzers.com/scenes/3401/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS53
+http://static.brazzers.com/scenes/3402/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS54
+http://static.brazzers.com/scenes/3482/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS55
+http://static.brazzers.com/scenes/3404/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS56
+http://static.brazzers.com/scenes/3405/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS57
+http://static.brazzers.com/scenes/3406/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS58
+http://static.brazzers.com/scenes/3407/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS59
+http://static.brazzers.com/scenes/3408/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS6
+http://static.brazzers.com/scenes/3356/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS60
+http://static.brazzers.com/scenes/3409/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS61
+http://static.brazzers.com/scenes/3410/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS62
+http://static.brazzers.com/scenes/3411/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS63
+http://static.brazzers.com/scenes/3412/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS64
+http://static.brazzers.com/scenes/3413/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS65
+http://static.brazzers.com/scenes/3414/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS66
+http://static.brazzers.com/scenes/3415/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS67
+http://static.brazzers.com/scenes/3416/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS68
+http://static.brazzers.com/scenes/3417/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS69
+http://static.brazzers.com/scenes/3418/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS7
+http://static.brazzers.com/scenes/3357/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS70
+http://static.brazzers.com/scenes/3419/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS71
+http://static.brazzers.com/scenes/3420/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS72
+http://static.brazzers.com/scenes/3421/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS73
+http://static.brazzers.com/scenes/3422/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS74
+http://static.brazzers.com/scenes/3423/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS75
+http://static.brazzers.com/scenes/3424/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS76
+http://static.brazzers.com/scenes/3425/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS77
+http://static.brazzers.com/scenes/3426/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS78
+http://static.brazzers.com/scenes/3427/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS79
+http://static.brazzers.com/scenes/3428/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS8
+http://static.brazzers.com/scenes/3358/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS80
+http://static.brazzers.com/scenes/3429/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS81
+http://static.brazzers.com/scenes/3430/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS82
+http://static.brazzers.com/scenes/3431/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS83
+http://static.brazzers.com/scenes/3432/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS84
+http://static.brazzers.com/scenes/3433/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS85
+http://static.brazzers.com/scenes/3434/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS86
+http://static.brazzers.com/scenes/3435/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS87
+http://static.brazzers.com/scenes/3436/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS88
+http://static.brazzers.com/scenes/3437/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS89
+http://static.brazzers.com/scenes/3438/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS9
+http://static.brazzers.com/scenes/3359/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS90
+http://static.brazzers.com/scenes/3439/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS91
+http://static.brazzers.com/scenes/3440/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS92
+http://static.brazzers.com/scenes/3441/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS93
+http://static.brazzers.com/scenes/3442/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS94
+http://static.brazzers.com/scenes/3443/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS95
+http://static.brazzers.com/scenes/3444/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS96
+http://static.brazzers.com/scenes/3445/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS97
+http://static.brazzers.com/scenes/3446/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS98
+http://static.brazzers.com/scenes/3447/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS99
+http://static.brazzers.com/scenes/3448/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3327/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3328/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3329/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3330/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3340/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3341/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3342/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3343/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3344/180sec.flv
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/brazzers-logo.png" group-title="ADULTO BRAZZERS ",BRAZZERS
+http://static.brazzers.com/scenes/3345/180sec.flv
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe 
+http://anysex.com/get_file/1/36c3f94673b9a0e998f5cf48a5dbae48/184000/184753/184753.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/0f750593e9c13a97d1372da7ba5ff03d/182000/182756/182756.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/ff756e8a922190e541ffb28fc1d0899c/182000/182758/182758.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/d2ed04906569520a85cdd25e41629e98/202000/202866/202866.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/8796f0bd1e8e71882aa295e9191b9296/191000/191215/191215.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/5173e1412a034da36e71f85ed0ad1846/203000/203201/203201.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/05aea56460ffe6544e25c74d5e8d603f/203000/203203/203203.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/048139358e3146db335e7fbdff6e5c5d/194000/194919/194919.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/e08b64e698f4c6e32c1a97372ac1d15d/197000/197487/197487.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/e31fcd5344bf35167014113a2d96ffbb/197000/197489/197489.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/9d188e3faef698e339825fc656155772/197000/197484/197484.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/fbb2fa94aaba78f34860bbaad1e245c2/202000/202080/202080.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/f310e31602e9dfc5c5a8b5a1a0198d2b/203000/203224/203224.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/41b1131ff919a95fb6b35070a216189f/203000/203171/203171.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/dd944af93cbf24415f873364ab965629/204000/204774/204774.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/f60a98d58c0116ce00d06cb76ebe525e/204000/204290/204290.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/acbacabd4cb2211c9bc721d7bce93670/197000/197554/197554.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/b042dbaad0bfc062be1745a7a718fbe6/197000/197560/197560.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/5288f016456cfc1283ff9adbe102e8d4/197000/197635/197635.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/ab091ded27d5833743fba73d8860d8f0/194000/194932/194932.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/750644b812d0460dfc6ca6a9445ce173/197000/197632/197632.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/a5aac25b60f13ce6c95acfac28f70f94/197000/197455/197455.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/7f1ab8fb692cdd03eceaa260c957393b/200000/200149/200149.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/28d916a26ef3fc7ff60714212ad2115d/197000/197689/197689.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/dc544f90b53907795a89f54e3c1bb075/197000/197759/197759.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/63d9ba70c151f55c34d0229fd4a77937/197000/197675/197675.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/885342c9c1ea0f88f11e00773ab606ff/197000/197558/197558.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/0516eb3c64e67faaef27f7f399ad9d61/205000/205008/205008.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/4d0fdf20259ebd6a8b89f82d43e4d7cb/197000/197818/197818.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/bdb420da1b33906ade977edb68f569e2/197000/197651/197651.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/1235c95f4616e3cd3c2c1439ea5ab79b/205000/205086/205086.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/e49dbc842a2ba698d3d2a9048e87f782/194000/194938/194938.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/d0ca96a0685cd9c3808a00b8e6b2b3f2/205000/205240/205240.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/99441daeb374ea78124532d200b98c9d/204000/204522/204522.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/2e3cde380a13325552c7e086dc08b65f/197000/197982/197982.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/e342bd6ca9c238328a746729169bf76d/202000/202824/202824.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/fc382fdc073fe57bf6e8dc701a5222f5/202000/202815/202815.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/ced7a18195a08f91799809fcfbefd243/197000/197907/197907.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/cd8b8a352de360a9a974ede0d82e9947/197000/197925/197925.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/f9a3bd63cc5a142a887330352666971b/204000/204036/204036.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/7bc6f2646b35105d1fdbf8b86d0e2074/197000/197330/197330.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/ea0dacb6ba238f0c2fd01eae0e3d78bc/174000/174741/174741.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/93c0cfa12077129af9ff427b230822e7/174000/174673/174673.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/7b09a5ebd3ff9c955b8896c106cb0540/199000/199755/199755.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/96383cc05aedc07402e7b2dea40e505c/186000/186265/186265.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/f802fe87bbd5036133a84e08c5d2bffd/162000/162590/162590.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/c5d3f84e727d06b25c5b61f12148340b/24000/24633/24633.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/e199e616adc70c16744c72116b495ab5/143000/143016/143016.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/85aa8f150e7a98dcfc24045d0238c3f4/143000/143003/143003.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/271d95f50aabd3718a7be49ca1a2b2d7/171000/171436/171436.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/e0316c7e430801cac92253e7ade1d67c/171000/171473/171473.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/a7b4a55258fd7d15572229a7f214f399/171000/171460/171460.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/961629519d49176158c6e9a5eab7f742/197000/197625/197625.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/42cf2addfba8ecb82827bad0a0f0fe2f/197000/197672/197672.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/faceac3b94ff226bdeb61b3937b72f00/197000/197945/197945.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/0dd12485608c09bc44a29b52b2f027cc/184000/184508/184508.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/2b0ea705000a2b0f35a63f12f0425a4c/197000/197004/197004.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/3849af25e06ccb10e1fb6b23f16a615b/197000/197939/197939.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/e9354f5d1d42f3e5773c0fdd95ef495e/44000/44548/44548.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/3ebe4a2993e0dbf891e9558a5455f770/197000/197933/197933.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/1e85444ae844e62672c7ef56e16a7e25/199000/199793/199793.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/246ab83c3ffa1adaddc8f16e9c8342d0/199000/199839/199839.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/e52515f2156303eeebefff200a925534/201000/201451/201451.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/06917326b75c66564164714f5dfd56f3/197000/197485/197485.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/1d759b669f1a44309556024be91f9923/193000/193615/193615.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/f3846b9c434f29d8bc9e6124122b9399/193000/193742/193742.mp4/
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/800886417807114240/2j23iDkq.jpg" group-title="ADULTO Babe",Babe  
+http://anysex.com/get_file/1/07d3eb53f530b5b9dce8585df1882e95/203000/203802/203802.mp4/
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-+18 3D
+http://galleries.3Dcatchyfetish.com/tube/027/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-+18 3D
+http://galleries.3dcatchyfetish.com/tube/001/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-10+18 3D
+http://galleries.3Dcatchyfetish.com/tube/010/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-11+18 3D
+http://galleries.3Dcatchyfetish.com/tube/011/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-12+18 3D
+http://galleries.3Dcatchyfetish.com/tube/012/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-13+18 3D
+http://galleries.3Dcatchyfetish.com/tube/013/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-14+18 3D
+http://galleries.3Dcatchyfetish.com/tube/014/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-15+18 3D
+http://galleries.3Dcatchyfetish.com/tube/015/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-16+18 3D
+http://galleries.3Dcatchyfetish.com/tube/016/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-17+18 3D
+http://galleries.3Dcatchyfetish.com/tube/017/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-18+18 3D
+http://galleries.3Dcatchyfetish.com/tube/018/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-19+18 3D
+http://galleries.3Dcatchyfetish.com/tube/019/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-2+18 3D
+http://galleries.3dcatchyfetish.com/tube/002/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-20+18 3D
+http://galleries.3Dcatchyfetish.com/tube/020/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-21+18 3D
+http://galleries.3Dcatchyfetish.com/tube/021/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-22+18 3D
+http://galleries.3Dcatchyfetish.com/tube/022/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-23+18 3D
+http://galleries.3Dcatchyfetish.com/tube/023/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-24+18 3D
+http://galleries.3Dcatchyfetish.com/tube/024/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-25+18 3D
+http://galleries.3Dcatchyfetish.com/tube/025/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-26+18 3D
+http://galleries.3Dcatchyfetish.com/tube/026/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-27+18 3D
+http://galleries.3Dcatchyfetish.com/tube/028/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-28+18 3D
+http://galleries.3Dcatchyfetish.com/tube/029/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-29+18 3D
+http://galleries.3Dcatchyfetish.com/tube/030/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-3+18 3D
+http://galleries.3dcatchyfetish.com/tube/003/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-30+18 3D
+http://galleries.3Dcatchyfetish.com/tube/031/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-31+18 3D
+http://galleries.3Dcatchyfetish.com/tube/032/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-32+18 3D
+http://galleries.3Dcatchyfetish.com/tube/033/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-4+18 3D
+http://galleries.3dcatchyfetish.com/tube/004/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-5+18 3D
+http://galleries.3Dcatchyfetish.com/tube/005/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-6+18 3D
+http://galleries.3Dcatchyfetish.com/tube/006/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-7+18 3D
+http://galleries.3Dcatchyfetish.com/tube/007/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-8+18 3D
+http://galleries.3Dcatchyfetish.com/tube/008/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://y2.pichunter.com/2925730_7_o.jpg" group-title="ADULTO XXXVOD3D 18",XXXVOD3D-9+18 3D
+http://galleries.3Dcatchyfetish.com/tube/009/trailer.f4v
+
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 1
+http://www.pornonacionais.com/wp-content/uploads/2016/12/1015.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 2
+http://www.pornonacionais.com/wp-content/uploads/2016/12/852.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 3
+http://www.pornonacionais.com/wp-content/uploads/2016/12/819.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 4
+http://www.pornonacionais.com/wp-content/uploads/2016/12/806.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 5
+http://www.pornonacionais.com/wp-content/uploads/2017/01/0916abe621f8640f39d5bc591f9145bc.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 6
+http://www.pornonacionais.com/wp-content/uploads/2016/12/607.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 7
+http://www.pornonacionais.com/wp-content/uploads/2016/12/910.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 8
+http://www.pornonacionais.com/wp-content/uploads/2017/02/b7b21a15a69e3de543a66182fcecf6da.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 9
+http://www.pornonacionais.com/wp-content/uploads/2016/01/btl-funkcarro-1.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 10
+http://www.pornonacionais.com/wp-content/uploads/2017/02/afc03b24e36e200dc7ac378e8ee4ad0b.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 11
+http://www.pornonacionais.com/wp-content/uploads/2016/12/d8ed22fa132bdc8a3a42adca50c13f90-1.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 12
+http://www.pornonacionais.com/wp-content/uploads/2016/12/712.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 13
+http://www.pornonacionais.com/wp-content/uploads/2016/10/bfe51671dd07a58f466a69b601407af6.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 14
+http://www.pornonacionais.com/wp-content/uploads/2016/12/507.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 15
+http://www.pornonacionais.com/wp-content/uploads/2016/12/126.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 16
+http://www.pornonacionais.com/wp-content/uploads/2016/12/4c275f778304cc0942899f32c66cb5ba.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 17
+http://www.pornonacionais.com/wp-content/uploads/2016/12/612d32c544f67b540b9c50f1f1414275.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 18
+http://www.pornonacionais.com/wp-content/uploads/2016/12/2eb818875022ccc81c14317af0c956c9-1.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 19
+http://www.pornonacionais.com/wp-content/uploads/2017/01/ffb2cf7ce157fd56c2f705e91039a36c-1.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 20
+http://www.pornonacionais.com/wp-content/uploads/2016/12/824.mp4
+#EXTINF:-1 tvg-logo="http://novinhasxxx.net/wp-content/uploads/2016/06/buceta-gostosa-da-novinha-safada-novinhasxxx.jpg" group-title="ADULTO NOVINHAS", 21
+http://www.pornonacionais.com/wp-content/uploads/2016/10/b0d26bd495439df83242e8b676696a54.mp4
