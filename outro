@@ -1,0 +1,2682 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-name="CIDOIPTV" pltv-description="Lista IPTV" pltv-cover="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" pltv-author="jose aparecido de souza" pltv-email="cidinhotv@gmail.com"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c685e348ad34b4d89fe6e0b32e4c15f6_online.jpg" group-title="CANAIS REGIONAIS",1001 Noites
+https://minhalista.live/channel/456180/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/57647c9c00efd6099c10349feeac368f_online.jpg" group-title="CANAIS REGIONAIS",Web Tv Paraná
+https://minhalista.live/channel/456181/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6e3e5d06040ce0333b551c2941c7b414_online.jpg" group-title="CANAIS REGIONAIS",Tv Espírita Do Paraná
+https://minhalista.live/channel/456182/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6af809f3846f27c005c2bcb09c7f85ac_online.jpg" group-title="CANAIS REGIONAIS",TV Antares
+https://minhalista.live/channel/456183/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a74510efd90781a4391fa45485dc316a_online.jpg" group-title="CANAIS REGIONAIS",TV Caiuá
+https://minhalista.live/channel/456184/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/5f03e8eb3cc6e40f2a4b48739e4ec29b_online.jpg" group-title="CANAIS REGIONAIS",Foz Tv
+https://minhalista.live/channel/456185/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ebd875486511d21e70e64f2ff1b89055_online.jpg" group-title="CANAIS REGIONAIS",Sic TV
+https://minhalista.live/channel/456186/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4dd5ac94bbc78676b94342965c81224f_online.jpg" group-title="CANAIS REGIONAIS",TV UP HD (Futura)
+https://minhalista.live/channel/456187/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/bc8ee7bb9255700545b83fc2a8248b74_online.jpg" group-title="CANAIS REGIONAIS",TV Mar
+https://minhalista.live/channel/456189/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2fac649197995e546c7155efdade9be4_online.jpg" group-title="CANAIS REGIONAIS",Tv Rio Largo
+https://minhalista.live/channel/456190/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/bebce3802f5f32ed57a681d53fcf58d7_online.jpg" group-title="CANAIS REGIONAIS",TV CN AGITOS
+https://minhalista.live/channel/456191/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2cc61199946b67c740c46370a37bdcc4_online.jpg" group-title="CANAIS REGIONAIS",TV A Crítica (Record AM)
+https://minhalista.live/channel/456192/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/5f8406672b2f52798b406f4fbb75ea75_online.jpg" group-title="CANAIS REGIONAIS",Amazon Sat-Amazonas
+https://minhalista.live/channel/456194/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4d41a908473bf8ff9ef1177df1d28597_online.jpg" group-title="CANAIS REGIONAIS",TVE
+https://minhalista.live/channel/456195/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/09e9c5410f629d2f23693859071df4f0_online.jpg" group-title="CANAIS REGIONAIS",TV Baiana (Cultura BA)
+https://minhalista.live/channel/456196/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/999f704aba6958208097bef1efdc043d_online.jpg" group-title="CANAIS REGIONAIS",Tv J.SID
+https://minhalista.live/channel/456197/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/55260afe6216bb4f7aca42e853c226e8_online.jpg" group-title="CANAIS REGIONAIS",Tv Geral
+https://minhalista.live/channel/456199/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/170bd7b2d73495c0a3a0868a75cd82d4_online.jpg" group-title="CANAIS REGIONAIS",TV A Cara da Bahia
+https://minhalista.live/channel/456200/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/864c734c5b21497891f2314e2a253851_online.jpg" group-title="CANAIS REGIONAIS",TV Diário
+https://minhalista.live/channel/456201/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6aed7a835072513fb3505541be160d3b_online.jpg" group-title="CANAIS REGIONAIS",Tv Aracati HD
+https://minhalista.live/channel/456202/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d67472398ced12bc0d060fc18f0ea7eb_online.jpg" group-title="CANAIS REGIONAIS",TV Metropole
+https://minhalista.live/channel/456203/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6980353bd02c1693486779aa2179268d_online.jpg" group-title="CANAIS REGIONAIS",Tv Padre Cicero
+https://minhalista.live/channel/456204/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b55ebfbd35ae5e4e25fa88443e0d77e2_online.jpg" group-title="CANAIS REGIONAIS",TV da Gente
+https://minhalista.live/channel/456205/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0b5e6dd185ee738e899caf0d1e30c580_online.jpg" group-title="CANAIS REGIONAIS",TV Guarany
+https://minhalista.live/channel/456206/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/fcfb9caf29f26e3c4c81262e590d7419_online.jpg" group-title="CANAIS REGIONAIS",TV Capital
+https://minhalista.live/channel/456207/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/26cbc793cbb42e9259e52fb2be4ac9dc_online.jpg" group-title="CANAIS REGIONAIS",Tv O Povo
+https://minhalista.live/channel/456208/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8d4361a1e4ffe72f494169548b0f0a74_online.jpg" group-title="CANAIS REGIONAIS",TVN Brasil
+https://minhalista.live/channel/456209/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/17fce83fa1c1db61d3a986688444e628_online.jpg" group-title="CANAIS REGIONAIS",All Sports TV
+https://minhalista.live/channel/456210/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c456ada4bed7293a99c26fd687a3ec00_online.jpg" group-title="CANAIS REGIONAIS",Radio Esportes Brasília
+https://minhalista.live/channel/456211/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1250d5df0e742d9ad27f0fc864c1e9d3_online.jpg" group-title="CANAIS REGIONAIS",TV Origem
+https://minhalista.live/channel/456212/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/74a6ec56afa29850623bc6dfc96470bd_online.jpg" group-title="CANAIS REGIONAIS",TV Vitória (Record ES)
+https://minhalista.live/channel/456213/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d97183e34f138024c8c7be85df020b89_online.jpg" group-title="CANAIS REGIONAIS",SIM TV (Record News - ES)
+https://minhalista.live/channel/456214/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/89f6f2f6db6c90c05306b0b72afd38dd_online.jpg" group-title="CANAIS REGIONAIS",TV Sim Colatina (Cultura ES)
+https://minhalista.live/channel/456216/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9c1c5b54b29e4fff22e7535fe5456583_online.jpg" group-title="CANAIS REGIONAIS",TV Serra Dourada (SBT GO)
+https://minhalista.live/channel/456217/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6d16be9269b2c7baa16fe7851fb5f4da_online.jpg" group-title="CANAIS REGIONAIS",TV Sucesso (Record GO)
+https://minhalista.live/channel/456218/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a4a7095d419c57c86520cf914706aa06_online.jpg" group-title="CANAIS REGIONAIS",Fonte TV
+https://minhalista.live/channel/456219/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7bdcf7c53e9596d3528ff347e0caf517_online.jpg" group-title="CANAIS REGIONAIS",Vivam Web Tv
+https://minhalista.live/channel/456220/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f67e481e8dd84604dbe7b6eb190ce6c9_online.jpg" group-title="CANAIS REGIONAIS",Canal Promessas
+https://minhalista.live/channel/456222/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/728b3e3f2306e6b2df2f2a2721cb7f99_online.jpg" group-title="CANAIS REGIONAIS",TV Difusora Sul
+https://minhalista.live/channel/456223/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2b6cb58347716bcc6a44fc40bffd7228_online.jpg" group-title="CANAIS REGIONAIS",TV Difusora
+https://minhalista.live/channel/456224/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b6f9779f56e43b1a110a3658da022dda_online.jpg" group-title="CANAIS REGIONAIS",TV Guará (Record News)
+https://minhalista.live/channel/456225/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/099cded6b67e5e0f6252b88761ea6c68_online.jpg" group-title="CANAIS REGIONAIS",Web Tv Agua Boa
+https://minhalista.live/channel/456227/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0541731abed5821c605de9c940e6485a_online.jpg" group-title="CANAIS REGIONAIS",TV Pantanal
+https://minhalista.live/channel/456228/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/133262584d6843c24df182354d0415a3_online.jpg" group-title="CANAIS REGIONAIS",TV Imaculada Conceição
+https://minhalista.live/channel/456229/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b53970a6b4b29420acde78623bd87ee1_online.jpg" group-title="CANAIS REGIONAIS",Rede Minas
+https://minhalista.live/channel/456230/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/74c39cd566e627c6fd3456fff782f2dc_online.jpg" group-title="CANAIS REGIONAIS",NTV
+https://minhalista.live/channel/456231/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a17da5e8dfd1c03d150f84accd12a74d_online.jpg" group-title="CANAIS REGIONAIS",TV Poços
+https://minhalista.live/channel/456232/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/da16cf961b8d45d6e8c5ecece580dd34_online.jpg" group-title="CANAIS REGIONAIS",TV Educar
+https://minhalista.live/channel/456235/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/896273a14e7f953b83ea9f6636cbb42c_online.jpg" group-title="CANAIS REGIONAIS",Tv Sete Lagoas
+https://minhalista.live/channel/456236/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a6feefcac1fdaca4281552d99ddf8917_online.jpg" group-title="CANAIS REGIONAIS",Tv Rural
+https://minhalista.live/channel/456238/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6005587d223d3786f05a4fdb2b2ea040_online.jpg" group-title="CANAIS REGIONAIS",TV Atividade (Cultura MG)
+https://minhalista.live/channel/456241/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/fd5ecd214025deda3af984766613742e_online.jpg" group-title="CANAIS REGIONAIS",TV Andradas
+https://minhalista.live/channel/456242/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/360ee4ffb7a2ef38e911f9825ac90bb9_online.jpg" group-title="CANAIS REGIONAIS",RBATV (Band PA)
+https://minhalista.live/channel/456244/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0b5a4004231823fcb7522a5adbf5bdf5_online.jpg" group-title="CANAIS REGIONAIS",TV Marajoara
+https://minhalista.live/channel/456245/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b54ee55cd812a3db48bb7c96b1a03436_online.jpg" group-title="CANAIS REGIONAIS",TV Master
+https://minhalista.live/channel/456246/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/bcf112298142eae77e4a582968c78fb8_online.jpg" group-title="CANAIS REGIONAIS",Web Tv Nova Paraiba
+https://minhalista.live/channel/456248/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f8a24a85b9ab274c706107d2110d15ed_online.jpg" group-title="CANAIS REGIONAIS",TV Portal Midia
+https://minhalista.live/channel/456249/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9e7bfabbfd51d6acf85b8309334f5594_online.jpg" group-title="CANAIS REGIONAIS",TV Jornal (SBT PE)
+https://minhalista.live/channel/456251/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e8f7e893cccc31dfdbedc556c10ba126_online.jpg" group-title="CANAIS REGIONAIS",TV Jornal Caruaru (SBT PE)
+https://minhalista.live/channel/456252/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4cc5be451622d5c0a4eaf5d0bb8096dd_online.jpg" group-title="CANAIS REGIONAIS",TV Caruaru
+https://minhalista.live/channel/456253/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/77ac3adcf279554f2c370fed2542ffb5_online.jpg" group-title="CANAIS REGIONAIS",TV Boa Esperança
+https://minhalista.live/channel/456255/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3b69a5bbf0c4c71b01da6d502d4e6242_online.jpg" group-title="CANAIS REGIONAIS",TV Cidade Verde (SBT PI)
+https://minhalista.live/channel/456257/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0bd11268fe2f0ed31dd6a6ca11c1b7d1_online.jpg" group-title="CANAIS REGIONAIS",TV CARIOCA.NET
+https://minhalista.live/channel/456258/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/da40fc709d99eca674d4e8ff8be841d6_online.jpg" group-title="CANAIS REGIONAIS",Canal Futura
+https://minhalista.live/channel/456259/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/820bf8bd1dfe6d62d28a6c35998aa176_online.jpg" group-title="CANAIS INTERNACIONAIS",TUFF TV
+https://minhalista.live/channel/456260/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/15d30cdf26b77682fe62187a07ecb60b_online.jpg" group-title="CANAIS INTERNACIONAIS",History Lab
+https://minhalista.live/channel/456261/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/32ed07eeff0752b948952eba6254e085_online.jpg" group-title="CANAIS INTERNACIONAIS",FRANCE 24
+https://minhalista.live/channel/456262/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/75019a3edabd8d02b9ddf2f139d65e4a_online.jpg" group-title="CANAIS INTERNACIONAIS",Real Madrid TV
+https://minhalista.live/channel/456263/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/20c2af994c2bf37cedf64372ac12ecd0_online.jpg" group-title="CANAIS INTERNACIONAIS",CBTV
+https://minhalista.live/channel/456265/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/70e622da9d036e2ea3a19912600e8e27_online.jpg" group-title="CANAIS INTERNACIONAIS",Red Bull TV
+https://minhalista.live/channel/456266/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/46ebbe91808f9d0a658ba9ead7783276_online.jpg" group-title="CANAIS INTERNACIONAIS",Bloomberg TV
+https://minhalista.live/channel/456271/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8e00f4c1fccc36de22073e793af7b9a0_online.jpg" group-title="CANAIS INTERNACIONAIS",TV 538
+https://minhalista.live/channel/456273/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ff9242b02657fa09d7f54decd6389b64_online.jpg" group-title="CANAIS INTERNACIONAIS",TeleBärn
+https://minhalista.live/channel/456274/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/61d141080827a25b1afdb98caad2dc37_online.jpg" group-title="CANAIS INTERNACIONAIS",Fox 23 News
+https://minhalista.live/channel/456276/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d34701d2de79c53aaefa68bf19d53af6_online.jpg" group-title="MÚSICAS E VARIEDADES",Rede New
+https://minhalista.live/channel/456277/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a333ecd2e094f7afd7ca7ab27ae5877e_online.jpg" group-title="MÚSICAS E VARIEDADES",TV União
+https://minhalista.live/channel/456278/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3cf2001947931d2d9ffa5ba41ad919d3_online.jpg" group-title="MÚSICAS E VARIEDADES",Top TV
+https://minhalista.live/channel/456279/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/cb38ebb68907961877b12ac2cd8b7ba2_online.jpg" group-title="MÚSICAS E VARIEDADES",Heart TV
+https://minhalista.live/channel/456280/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c124f5a78ea090efa159ee5e93cc1754_online.jpg" group-title="MÚSICAS E VARIEDADES",Gospel Music TV
+https://minhalista.live/channel/456282/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d2ebe160b47b553bd23c2eccbf94d0a7_online.jpg" group-title="MÚSICAS E VARIEDADES",Mega TV
+https://minhalista.live/channel/456283/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ace2141ffd17e9aa39be61a69749299b_online.jpg" group-title="MÚSICAS E VARIEDADES",City Radio TV | SD
+https://minhalista.live/channel/456285/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d9fec5ad3899c2c4cedf239fc80262de_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Alternative | HD
+https://minhalista.live/channel/456286/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c7c1076d07e7bfc75aa387ec75f61387_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Brits + Hits | HD
+https://minhalista.live/channel/456287/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3b2424d0028104028e42cf6aeb684478_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Dance | HD
+https://minhalista.live/channel/456288/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/29430b20c9861b540c50c2efca69be70_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Hip-Hop And R&B | HD
+https://minhalista.live/channel/456289/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/630ba0af4811ec160fb5f6470eefd86b_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Hit | HD
+https://minhalista.live/channel/456290/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/49ea110789e9259ee20e58acef689e98_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Indie | HD
+https://minhalista.live/channel/456292/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9471d5928c24c8c9c45d8560ab0d8027_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Metal | HD
+https://minhalista.live/channel/456293/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2543a759cbe333a031255e01bf7f1099_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Pop & Country | HD
+https://minhalista.live/channel/456294/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/124000286afde0f4f3b8138766c88ce1_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Pop Hits | HD
+https://minhalista.live/channel/456295/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b7e1d72130084ccebe97073e0de431c0_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice R&B Soul | HD
+https://minhalista.live/channel/456296/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d7e3c9aff29e518db526c6c0cead6cb9_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Rap | HD
+https://minhalista.live/channel/456297/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d6e849047db533031da539a6dec4da93_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Rap 2K | HD
+https://minhalista.live/channel/456298/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8726a58d048ffd4b683ad5ee36c80499_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Rock | HD
+https://minhalista.live/channel/456299/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/387e40c4868b2a5ade57ce609d591a69_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Today | HD
+https://minhalista.live/channel/456300/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/70aeba8f5e2848ac633bc48f4f402972_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice 90 | HD
+https://minhalista.live/channel/456301/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2a3e29f84b0db24ac2c5826a4b72da0c_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Throwback Jamz | HD
+https://minhalista.live/channel/456302/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7783cc190c88028d4caea7f3b13f69cf_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Y2K | HD
+https://minhalista.live/channel/456303/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6c59b32ca56a7476e79b7ddf26122754_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice | HD
+https://minhalista.live/channel/456304/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4c179aa9ebdfc753d73c0814cc9a9cbc_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Mexicana | HD
+https://minhalista.live/channel/456305/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/50223c4328aa56d35e09234e0bb90fca_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Musica Urbana | HD
+https://minhalista.live/channel/456306/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f88d9645c63d5389e7efbfbde691bdc7_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Pop Latino | HD
+https://minhalista.live/channel/456307/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/30765d5a7d62f862bc558b8c527d26ad_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Tropicales | HD
+https://minhalista.live/channel/456308/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e42c247ef79255fc5dc505d9d9114d22_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Teen Beats | HD
+https://minhalista.live/channel/456309/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/214780d2972f8c17d6d93f5427cd74cf_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Kidz Only | HD
+https://minhalista.live/channel/456310/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c41d07e38591ac0978d684e8e7fc07e4_online.jpg" group-title="MÚSICAS E VARIEDADES",Music Choice Toddler Tunes | HD
+https://minhalista.live/channel/456311/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d363ef547cf464a3ee92442f9436a481_online.jpg" group-title="MÚSICAS E VARIEDADES",Radio 105 Network | HD
+https://minhalista.live/channel/456312/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/92f4c6aa757df97cc86406718b59f657_online.jpg" group-title="MÚSICAS E VARIEDADES",M2O TV | SD
+https://minhalista.live/channel/456314/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1e0428b528dd5c52909217335b4ddd38_online.jpg" group-title="MÚSICAS E VARIEDADES",Capital TV | SD
+https://minhalista.live/channel/456315/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6e0b224793d28e40e353ac90fd7b1c77_online.jpg" group-title="MÚSICAS E VARIEDADES",Retro TV | SD
+https://minhalista.live/channel/456316/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b04851bc742a1a656c38f00709d31abf_online.jpg" group-title="MÚSICAS E VARIEDADES",Virgin Radio TV | SD
+https://minhalista.live/channel/456318/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3b1560ef101fbef6aa5ed8e534a8d50e_online.jpg" group-title="MÚSICAS E VARIEDADES",Rock Nacional TV | SD
+https://minhalista.live/channel/456319/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1b5108244d961c39bee6af168b7f89cb_online.jpg" group-title="MÚSICAS E VARIEDADES",Planeta HD | HD
+https://minhalista.live/channel/456320/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/50117082cbbe34b5eea14a7904aaf78f_online.jpg" group-title="MÚSICAS E VARIEDADES",Xite | HD
+https://minhalista.live/channel/456321/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3753c62d2c1bb78962a835fce163717f_online.jpg" group-title="MÚSICAS E VARIEDADES",TVPop | HD
+https://minhalista.live/channel/456322/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/aa3f59cdbeb8141996948789156bd11d_online.jpg" group-title="MÚSICAS E VARIEDADES",Radio Montecarlo TV | SD
+https://minhalista.live/channel/456323/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/dee801842bbfa23f8de6ec4f4549bba9_online.jpg" group-title="MÚSICAS E VARIEDADES",Radio U | SD
+https://minhalista.live/channel/456324/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c645d3e479ab271f79109ee685add03b_online.jpg" group-title="MÚSICAS E VARIEDADES",Radio Sanborja (Peru) | SD
+https://minhalista.live/channel/456325/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/20666389c013bc1deede35bd8a0cf368_online.jpg" group-title="MÚSICAS E VARIEDADES",California Music Channel | HD
+https://minhalista.live/channel/456326/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ca5a152c20e29ce4b6257308dcdb1052_online.jpg" group-title="MÚSICAS E VARIEDADES",Radio Bruno (Italia) | SD
+https://minhalista.live/channel/456327/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1f74322abd4be970212b7f96d792223f_online.jpg" group-title="MÚSICAS E VARIEDADES",Colosal TV (Costa Rica) | SD
+https://minhalista.live/channel/456329/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/fb22bce80f0a999927079b68c2bf301e_online.jpg" group-title="MÚSICAS E VARIEDADES",Radio Contact Feel Good | HD
+https://minhalista.live/channel/456330/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8c64121fed647326d96c1a4b53ece109_online.jpg" group-title="MÚSICAS E VARIEDADES",Klipkar TV | SD
+https://minhalista.live/channel/456331/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3020683ad2541000a6d0acf37406a667_online.jpg" group-title="MÚSICAS E VARIEDADES",Portal FoxMix | HD
+https://minhalista.live/channel/456332/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/46ca1845513c713fbe53034b53c2cf11_online.jpg" group-title="MÚSICAS E VARIEDADES",Gufo Rock Latino | HD
+https://minhalista.live/channel/456333/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/76bbebdcc900c9748a1428ad52ee48aa_online.jpg" group-title="MÚSICAS E VARIEDADES",Gufo Rock Latino | HD
+https://minhalista.live/channel/456334/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/727db0f8c5645137ab464f0ed70efc2b_online.jpg" group-title="MÚSICAS E VARIEDADES",Gufo Indie | HD
+https://minhalista.live/channel/456336/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/896f64fbcd98ae632c0d2a8c22154775_online.jpg" group-title="CIDINHO Babys",Galinha Pintadinha
+https://minhalista.live/channel/456417/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/042d5eb6649e08c33f41a94518e44c99_online.jpg" group-title="CIDINHO Babys",Galinha Pintadinha 3
+https://minhalista.live/channel/456418/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E01 A Familia Dracula
+https://minhalista.live/channel/456420/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E02 A Familia Dracula
+https://minhalista.live/channel/456421/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E03 A Familia Dracula
+https://minhalista.live/channel/456422/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E04 A Familia Dracula
+https://minhalista.live/channel/456423/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E05 A Familia Dracula
+https://minhalista.live/channel/456424/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E06 A Familia Dracula
+https://minhalista.live/channel/456425/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E07 A Familia Dracula
+https://minhalista.live/channel/456426/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E08 A Familia Dracula
+https://minhalista.live/channel/456427/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E09 A Familia Dracula
+https://minhalista.live/channel/456428/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E10 A Familia Dracula
+https://minhalista.live/channel/456429/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E11 A Familia Dracula
+https://minhalista.live/channel/456430/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E12 A Familia Dracula
+https://minhalista.live/channel/456431/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E13 A Familia Dracula
+https://minhalista.live/channel/456432/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E14 A Familia Dracula
+https://minhalista.live/channel/456433/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E15 A Familia Dracula
+https://minhalista.live/channel/456434/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="A Familia Dracula",E16 A Familia Dracula
+https://minhalista.live/channel/456435/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0794861f7a7ed284b206ed96a0c3abce_online.jpg" group-title="Homem-Aranha",E01 Ultimate Homem-Aranha
+https://minhalista.live/channel/456436/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2adb66fd09493a65242dc35cff53e299_online.jpg" group-title="Homem-Aranha",E02 Ultimate Homem-Aranha
+https://minhalista.live/channel/456437/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6d634354d6f51dffd4e9944071553b43_online.jpg" group-title="Homem-Aranha",E03 Ultimate Homem-Aranha
+https://minhalista.live/channel/456438/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0fce9c2bff2bc5ea63b31316aea984e1_online.jpg" group-title="Homem-Aranha",E04 Ultimate Homem-Aranha
+https://minhalista.live/channel/456439/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/5e7eb39d48d0d8388037f1d99319a9ba_online.jpg" group-title="Homem-Aranha",E05 Ultimate Homem-Aranha
+https://minhalista.live/channel/456440/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2b632bdb31dfb7273014faebfcdef76a_online.jpg" group-title="Homem-Aranha",E06 Ultimate Homem-Aranha
+https://minhalista.live/channel/456441/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f6d758a7e55e5c1f0522d46c781686d4_online.jpg" group-title="Homem-Aranha",E06 Ultimate Homem-Aranha
+https://minhalista.live/channel/456442/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/32b29e470d2e33bc90600dc2602a8672_online.jpg" group-title="Homem-Aranha",E07 Ultimate Homem-Aranha
+https://minhalista.live/channel/456443/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a65ad5f3b75c5d70ae8802a3ad1e62e3_online.jpg" group-title="Homem-Aranha",E08 Ultimate Homem-Aranha
+https://minhalista.live/channel/456444/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f1c8478d9babdead4fd2f6d9703ad223_online.jpg" group-title="Homem-Aranha",E09 Ultimate Homem-Aranha
+https://minhalista.live/channel/456445/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/518ac5f6d5abe5ea3b126dcec58e4732_online.jpg" group-title="Homem-Aranha",E10 Ultimate Homem-Aranha
+https://minhalista.live/channel/456446/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a78135f6a9d8345c4e6c0579aa890532_online.jpg" group-title="Homem-Aranha",E11 Ultimate Homem-Aranha
+https://minhalista.live/channel/456447/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c787f01467a294137b78a564a04310a9_online.jpg" group-title="Homem-Aranha",E12 Ultimate Homem-Aranha
+https://minhalista.live/channel/456448/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/81e5a8d0ea2a1f9140c28bb40877bee4_online.jpg" group-title="Homem-Aranha",E13 Ultimate Homem-Aranha
+https://minhalista.live/channel/456449/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a1218eaee3a7c4874e35e37cadd76418_online.jpg" group-title="Homem-Aranha",E14 Ultimate Homem-Aranha
+https://minhalista.live/channel/456450/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f50f6df089db922c45fbd74b69a6ce60_online.jpg" group-title="Homem-Aranha",E15 Ultimate Homem-Aranha
+https://minhalista.live/channel/456451/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/22e4910dd7aba5aa9b2a783334743c23_online.jpg" group-title="Homem-Aranha",E16 Ultimate Homem-Aranha
+https://minhalista.live/channel/456452/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9d3e7e1bb82e8d2f6fa65b0ef0af0124_online.jpg" group-title="Homem-Aranha",E17 Ultimate Homem-Aranha
+https://minhalista.live/channel/456453/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/694278cc7fb826fc1d2415314602e0be_online.jpg" group-title="Homem-Aranha",E18 Ultimate Homem-Aranha
+https://minhalista.live/channel/456454/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d0b3982c3e02fd84d9436577c1b9f4cd_online.jpg" group-title="Homem-Aranha",E19 Ultimate Homem-Aranha
+https://minhalista.live/channel/456455/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/24d29ff88073b3ffd9b98217a0c78be6_online.jpg" group-title="Homem-Aranha",E20 Ultimate Homem-Aranha
+https://minhalista.live/channel/456456/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/192a222eb93518f8fd619eb4ebf59268_online.jpg" group-title="Homem-Aranha",E21 Ultimate Homem-Aranha
+https://minhalista.live/channel/456457/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/463a4676034508ff5798aabba86ccf57_online.jpg" group-title="Homem-Aranha",E22 Ultimate Homem-Aranha
+https://minhalista.live/channel/456458/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4749cb7ac72798cb1ea384d4f438ec8d_online.jpg" group-title="Homem-Aranha",E23 Ultimate Homem-Aranha
+https://minhalista.live/channel/456459/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8841c6978b03a7659c263dd81b94c266_online.jpg" group-title="Homem-Aranha",E24 Ultimate Homem-Aranha
+https://minhalista.live/channel/456460/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9162c3579a7a3517f977ff2d252a7dfd_online.jpg" group-title="Homem-Aranha",E25 Ultimate Homem-Aranha
+https://minhalista.live/channel/456461/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/be06eb6109bd2efc3aec9210c37a1405_online.jpg" group-title="Homem-Aranha",E26 Ultimate Homem-Aranha
+https://minhalista.live/channel/456462/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0ec566e19cf485d20fc61dac3560a85a_online.jpg" group-title="Homem-Aranha",E27 Ultimate Homem-Aranha
+https://minhalista.live/channel/456463/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2e589188374920e27d6b2d5c01b39115_online.jpg" group-title="Homem-Aranha",E28 Ultimate Homem-Aranha
+https://minhalista.live/channel/456464/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/92a53316bcd404013545d796a437ce35_online.jpg" group-title="Homem-Aranha",E29 Ultimate Homem-Aranha
+https://minhalista.live/channel/456465/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7ba49d6b890833da4c4e842e2a0406db_online.jpg" group-title="Homem-Aranha",E30 Ultimate Homem-Aranha
+https://minhalista.live/channel/456466/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4db862f5127044c98add1752e96f52d4_online.jpg" group-title="Homem-Aranha",E31 Ultimate Homem-Aranha
+https://minhalista.live/channel/456467/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/faf8a0dc373a5502b81eed9d9ae9008c_online.jpg" group-title="Homem-Aranha",E32 Ultimate Homem-Aranha
+https://minhalista.live/channel/456468/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0cb9198430a5527c36205c8763a09127_online.jpg" group-title="Homem-Aranha",E33 Ultimate Homem-Aranha
+https://minhalista.live/channel/456469/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1903b9605fd93f22991a32feb1c08129_online.jpg" group-title="Homem-Aranha",E34 Ultimate Homem-Aranha
+https://minhalista.live/channel/456470/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6c71873d4e49147e6d09b6fbf7375791_online.jpg" group-title="Homem-Aranha",E35 Ultimate Homem-Aranha
+https://minhalista.live/channel/456471/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f0c9aca69f28b181d1644b3c27c3007c_online.jpg" group-title="Homem-Aranha",E36 Ultimate Homem-Aranha
+https://minhalista.live/channel/456472/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/98e7d496612aeeb2748f151cad9877d0_online.jpg" group-title="Homem-Aranha",E37 Ultimate Homem-Aranha
+https://minhalista.live/channel/456473/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1316067fa2c0e72539c5ebb82e328edc_online.jpg" group-title="Homem-Aranha",E38 Ultimate Homem-Aranha
+https://minhalista.live/channel/456474/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d6e9b5c0e04a0138c87529d22e9b993f_online.jpg" group-title="Homem-Aranha",E39 Ultimate Homem-Aranha
+https://minhalista.live/channel/456475/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e94f91f10592c51e6cdfac65b7d1ad00_online.jpg" group-title="Homem-Aranha",E40 Ultimate Homem-Aranha
+https://minhalista.live/channel/456477/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d1e2bd2305150dfee3760bbcb91205ce_online.jpg" group-title="Homem-Aranha",E41 Ultimate Homem-Aranha
+https://minhalista.live/channel/456478/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/61b645961973f15799e246975d0f5e22_online.jpg" group-title="Homem-Aranha",E42 Ultimate Homem-Aranha
+https://minhalista.live/channel/456479/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8064c71b41459675c96e38ffb66d39f1_online.jpg" group-title="Homem-Aranha",E43 Ultimate Homem-Aranha
+https://minhalista.live/channel/456480/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0566737c387d68464fba40c3dfdbb9de_online.jpg" group-title="Homem-Aranha",E44 Ultimate Homem-Aranha
+https://minhalista.live/channel/456481/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8ec2cff595c4efbfc3d1e5c711a40a19_online.jpg" group-title="Homem-Aranha",E45 Ultimate Homem-Aranha
+https://minhalista.live/channel/456482/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/54048adc7a2b23463acaa0a526df0ff4_online.jpg" group-title="Homem-Aranha",E46 Ultimate Homem-Aranha
+https://minhalista.live/channel/456483/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ecb9075b76a87e844742c09ccd1a0f57_online.jpg" group-title="Homem-Aranha",E47 Ultimate Homem-Aranha
+https://minhalista.live/channel/456484/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1f60766fdb762a669214c7734aee5b0a_online.jpg" group-title="Homem-Aranha",E48 Ultimate Homem-Aranha
+https://minhalista.live/channel/456485/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3f1f12c0f4875d2fa219fa1c8f4c3862_online.jpg" group-title="Homem-Aranha",E49 Ultimate Homem-Aranha
+https://minhalista.live/channel/456486/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8f42fe57e06b9a3c481ab4fcfd49b05f_online.jpg" group-title="Homem-Aranha",E50 Ultimate Homem-Aranha
+https://minhalista.live/channel/456487/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c94f0a13e83633cc0ebb1dacd0b9b006_online.jpg" group-title="Homem-Aranha",E51 Ultimate Homem-Aranha
+https://minhalista.live/channel/456488/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/bfb9fa2d488aa0706b733303ab4fb311_online.jpg" group-title="Homem-Aranha",E52 Ultimate Homem-Aranha
+https://minhalista.live/channel/456489/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/baf06b25e089e8c429f473a16b2af156_online.jpg" group-title="Homem-Aranha",E53 Ultimate Homem-Aranha
+https://minhalista.live/channel/456490/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6c8bf08e7814890b717e6ff2b5d3971b_online.jpg" group-title="Homem-Aranha",E54 Ultimate Homem-Aranha
+https://minhalista.live/channel/456491/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a85eb9221bbfc13faf4bdf9f51b0ee73_online.jpg" group-title="Homem-Aranha",E55 Ultimate Homem-Aranha
+https://minhalista.live/channel/456492/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/41137b9ee9d50d709534053a059857c2_online.jpg" group-title="Homem-Aranha",E56 Ultimate Homem-Aranha
+https://minhalista.live/channel/456493/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/de1eea2d84f08214853be6d4da0d196e_online.jpg" group-title="Homem-Aranha",E57 Ultimate Homem-Aranha
+https://minhalista.live/channel/456494/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/579f2ea35cc4d23c7cc8b2a80e23ca1b_online.jpg" group-title="Homem-Aranha",E58 Ultimate Homem-Aranha
+https://minhalista.live/channel/456495/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/83fb43ccfdef779467f5e457a4ad2130_online.jpg" group-title="Homem-Aranha",E59 Ultimate Homem-Aranha
+https://minhalista.live/channel/456496/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/28dbcfb7939ef83a78b44d7d3232b6d2_online.jpg" group-title="Homem-Aranha",E60 Ultimate Homem-Aranha
+https://minhalista.live/channel/456497/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/62c52320e88a5f384b5483f080702abb_online.jpg" group-title="Homem-Aranha",E61 Ultimate Homem-Aranha
+https://minhalista.live/channel/456498/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e3d59183ea5b3cb345b730b42e31568b_online.jpg" group-title="Homem-Aranha",E62 Ultimate Homem-Aranha
+https://minhalista.live/channel/456499/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/afd732aa6f42bc9cee61e7ef07069a74_online.jpg" group-title="Homem-Aranha",E63 Ultimate Homem-Aranha
+https://minhalista.live/channel/456500/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/cfef2928c09ff670b5542d4e305d2987_online.jpg" group-title="Homem-Aranha",E64 Ultimate Homem-Aranha
+https://minhalista.live/channel/456502/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f744be1c24dcf684e51f847c32e5859e_online.jpg" group-title="Homem-Aranha",E65 Ultimate Homem-Aranha
+https://minhalista.live/channel/456503/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/cdacada5ead088dc7336e5b312e4c0c3_online.jpg" group-title="Homem-Aranha",E66 Ultimate Homem-Aranha
+https://minhalista.live/channel/456504/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/cc458e70d9ebe9c74a420f64ac4de476_online.jpg" group-title="Homem-Aranha",E67 Ultimate Homem-Aranha
+https://minhalista.live/channel/456505/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/5e1f9b76d0103161a6e238003f7886b7_online.jpg" group-title="Homem-Aranha",E68 Ultimate Homem-Aranha
+https://minhalista.live/channel/456506/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3fc006f260e8b491392c88a57ab67dba_online.jpg" group-title="Homem-Aranha",E69 Ultimate Homem-Aranha
+https://minhalista.live/channel/456507/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/968e6a068334332e930a31e1fc93701a_online.jpg" group-title="Homem-Aranha",E70 Ultimate Homem-Aranha
+https://minhalista.live/channel/456508/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e99e1d8045f43d9da88760cd531ed1f8_online.jpg" group-title="Homem-Aranha",E71 Ultimate Homem-Aranha
+https://minhalista.live/channel/456509/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/fd8dc2639cd4df73ba73759d0124c39a_online.jpg" group-title="Homem-Aranha",E72 Ultimate Homem-Aranha
+https://minhalista.live/channel/456510/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4e93126dbd911fe3897195feb3dd34a1_online.jpg" group-title="Homem-Aranha",E73 Ultimate Homem-Aranha
+https://minhalista.live/channel/456511/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b40f95d447e1782497315bcdd3a89e42_online.jpg" group-title="Homem-Aranha",E74 Ultimate Homem-Aranha
+https://minhalista.live/channel/456512/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0276106e128a25e6c0717afc809e3c59_online.jpg" group-title="Homem-Aranha",E75 Ultimate Homem-Aranha
+https://minhalista.live/channel/456513/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/5eabd6b6d3e49e7c0c7108a719505180_online.jpg" group-title="Homem-Aranha",E76 Ultimate Homem-Aranha
+https://minhalista.live/channel/456514/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8f004b962bb24413d7d46c90fc2566c8_online.jpg" group-title="Homem-Aranha",E77 Ultimate Homem-Aranha
+https://minhalista.live/channel/456515/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e4690044b3afe3b81530c90b10a85350_online.jpg" group-title="Homem-Aranha",E78 Ultimate Homem-Aranha
+https://minhalista.live/channel/456516/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3063dd0c11b83f17090caf35f6c322cf_online.jpg" group-title="Homem-Aranha",E79 Ultimate Homem-Aranha
+https://minhalista.live/channel/456517/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4dda6063671e410e4370725bd8f150d2_online.jpg" group-title="Homem-Aranha",E80 Ultimate Homem-Aranha
+https://minhalista.live/channel/456518/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a3dc2dd0bbe324cd43357311426be5d5_online.jpg" group-title="Homem-Aranha",E81 Ultimate Homem-Aranha
+https://minhalista.live/channel/456519/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/74951fe095e7d89c3b35473870abaa93_online.jpg" group-title="Homem-Aranha",E82 Ultimate Homem-Aranha
+https://minhalista.live/channel/456520/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/77fa6f340f469c0f91c91f3bbd69289f_online.jpg" group-title="Homem-Aranha",E83 Ultimate Homem-Aranha
+https://minhalista.live/channel/456521/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E01 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456522/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E02 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456523/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E03 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456524/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E04 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456525/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E05 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456526/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E06 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456527/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E07 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456528/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E08 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456529/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E09 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456530/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E10 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456531/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E11 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456532/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E12 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456533/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Mortal Kombat - Defensores Da Terra",E13 Mortal Kombat - Defensores Da Terra
+https://minhalista.live/channel/456534/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/25b79019f9a9b382016853cf6e8fd6ab_online.jpg" group-title="CANAIS REGIONAIS",1001 Noites
+https://minhalista.live/channel/473337/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/bd28291e658e26429c556fa89a79df3d_online.jpg" group-title="CANAIS INTERNACIONAIS",CBTV
+https://minhalista.live/channel/473363/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e389a48023980867562a9ac5a3fac3d1_online.jpg" group-title="CANAIS INTERNACIONAIS",MLB Network
+https://minhalista.live/channel/473364/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ab9c5a5822cfe0df19dbb2aa5ffa99a3_online.jpg" group-title="CANAIS INTERNACIONAIS",Red Bull TV
+https://minhalista.live/channel/473371/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0bb5168e0a9e527f74e39015a890bea8_online.jpg" group-title="CANAIS INTERNACIONAIS",ABC News
+https://minhalista.live/channel/473373/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",The Cured
+https://minhalista.live/channel/473392/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Daphne & Velma
+https://minhalista.live/channel/473409/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Os Estranhos 2 – Cacada Noturna
+https://minhalista.live/channel/473410/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Gringo – Vivo ou Morto LEG
+https://minhalista.live/channel/473413/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Luna Em Busca Da Verdade
+https://minhalista.live/channel/473414/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Pequena Floresta LEG
+https://minhalista.live/channel/473415/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Fahrenheit 451
+https://minhalista.live/channel/473417/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Pari LEG
+https://minhalista.live/channel/473418/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Terminal LEG
+https://minhalista.live/channel/473425/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Lego DC Super Hero Girls: Escola de Super Vilas
+https://minhalista.live/channel/473427/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Abelhinha Maya: O Filme
+https://minhalista.live/channel/473430/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",DeadPool 2
+https://minhalista.live/channel/473431/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",DeadPool 2 LEG
+https://minhalista.live/channel/473433/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cargo
+https://minhalista.live/channel/473434/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Mae e Pai
+https://minhalista.live/channel/473435/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Trem para Paris LEG
+https://minhalista.live/channel/473438/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Vinganca LEG
+https://minhalista.live/channel/473439/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Paulo. Apostolo de Cristo
+https://minhalista.live/channel/473441/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Desejo de Matar
+https://minhalista.live/channel/473442/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Nao Sou Culpada
+https://minhalista.live/channel/473443/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Noite do Jogo
+https://minhalista.live/channel/473444/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Barraca Do Beijo
+https://minhalista.live/channel/473445/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Tem alienigenas no meu quarto
+https://minhalista.live/channel/473446/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Grande Jogada
+https://minhalista.live/channel/473449/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sansao LEG
+https://minhalista.live/channel/473453/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Ataque dos Vermes Malditos 6 LEG
+https://minhalista.live/channel/473455/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Princesa Encantada
+https://minhalista.live/channel/473456/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Ultimo Suspiro LEG
+https://minhalista.live/channel/473457/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Perdoai as Nossas Dividas LEG
+https://minhalista.live/channel/473458/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Primal Rage LEG
+https://minhalista.live/channel/473459/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Asylum of Fear LEG
+https://minhalista.live/channel/473460/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Verdade ou Desafio
+https://minhalista.live/channel/473461/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Genesis LEG
+https://minhalista.live/channel/473463/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Family Blood
+https://minhalista.live/channel/473465/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Anon
+https://minhalista.live/channel/473466/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Meu romance perfeito
+https://minhalista.live/channel/473468/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Darc
+https://minhalista.live/channel/473469/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Braven
+https://minhalista.live/channel/473471/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Meu Romance Perfeito
+https://minhalista.live/channel/473473/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Lego DC Super Hero Girls: Escola de Super Vilas LEG
+https://minhalista.live/channel/473474/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",10×10 LEG
+https://minhalista.live/channel/473475/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Corbin Nash LEG
+https://minhalista.live/channel/473476/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Pronto. Falei!
+https://minhalista.live/channel/473477/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Doce Argumento
+https://minhalista.live/channel/473478/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Mercury 13
+https://minhalista.live/channel/473481/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Doce Argumento
+https://minhalista.live/channel/473482/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",La vem os pais
+https://minhalista.live/channel/473484/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Artista do desastre
+https://minhalista.live/channel/473486/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Psychokinesis
+https://minhalista.live/channel/473488/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Uma aventura e tanto
+https://minhalista.live/channel/473489/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Proud Mary: A profissional
+https://minhalista.live/channel/473490/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Panico na cabana
+https://minhalista.live/channel/473492/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Letras da Morte
+https://minhalista.live/channel/473493/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A beira do abismo
+https://minhalista.live/channel/473494/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sombras da vida
+https://minhalista.live/channel/473495/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Preco
+https://minhalista.live/channel/473496/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Dude: A vida e assim
+https://minhalista.live/channel/473497/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Perseguicao Criminosa
+https://minhalista.live/channel/473498/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Amanhecer mais escuro
+https://minhalista.live/channel/473499/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Spark: Uma Aventura Espacial
+https://minhalista.live/channel/473500/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Perdido na Fama
+https://minhalista.live/channel/473503/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Amanhecer Mais Escuro
+https://minhalista.live/channel/473504/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Rampage – Destruicao Total
+https://minhalista.live/channel/473505/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Estrangeiro
+https://minhalista.live/channel/473507/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um lugar silencioso TS
+https://minhalista.live/channel/473508/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um lugar silencioso
+https://minhalista.live/channel/473509/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Os Esquecidos
+https://minhalista.live/channel/473511/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Debaixo do Mesmo Teto
+https://minhalista.live/channel/473512/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Homem das Cavernas
+https://minhalista.live/channel/473514/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Caminho da Fe
+https://minhalista.live/channel/473515/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Faca sua jogada
+https://minhalista.live/channel/473517/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Correndo atras de um pai
+https://minhalista.live/channel/473520/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Com amor Simon
+https://minhalista.live/channel/473522/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Covil de ladroes
+https://minhalista.live/channel/473523/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Perfeita e a Mae 2
+https://minhalista.live/channel/473524/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Lino: Uma Aventura de Sete Vidas
+https://minhalista.live/channel/473526/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Esquadrao Suicida: Hell to Pay
+https://minhalista.live/channel/473527/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Uma Dobra no Tempo
+https://minhalista.live/channel/473528/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Pedro Coelho
+https://minhalista.live/channel/473529/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Circulo de Fogo A Revolta
+https://minhalista.live/channel/473530/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Maria Madalena
+https://minhalista.live/channel/473531/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Benji
+https://minhalista.live/channel/473533/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Vilan
+https://minhalista.live/channel/473534/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",60 Minutos para morrer
+https://minhalista.live/channel/473535/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sobrenatural: A Ultima Chave
+https://minhalista.live/channel/473536/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Perda Total
+https://minhalista.live/channel/473537/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Fala Serio. Mae!
+https://minhalista.live/channel/473539/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Corrida Mortal 4 LEG
+https://minhalista.live/channel/473540/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Paddington 2
+https://minhalista.live/channel/473542/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Far Cry 5: Dentro dos Portoes do Eden
+https://minhalista.live/channel/473543/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Vamps A Morte nao Existe para o Amor
+https://minhalista.live/channel/473544/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",The Titan
+https://minhalista.live/channel/473545/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Passageiro
+https://minhalista.live/channel/473548/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",12 Herois
+https://minhalista.live/channel/473549/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Operacao Red Sparrow
+https://minhalista.live/channel/473551/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Conspiracao Terrorista
+https://minhalista.live/channel/473552/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Revolt
+https://minhalista.live/channel/473553/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Boo 2! A Madea Halloween
+https://minhalista.live/channel/473554/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",The Outside LEG
+https://minhalista.live/channel/473555/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Forma da Agua
+https://minhalista.live/channel/473557/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Pequena grande vida
+https://minhalista.live/channel/473558/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Honra ao Merito
+https://minhalista.live/channel/473559/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Wildling LEG
+https://minhalista.live/channel/473562/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Rampage – Destruicao Total
+https://minhalista.live/channel/473563/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Rainha Da Cocaina
+https://minhalista.live/channel/473565/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Amor. Simon
+https://minhalista.live/channel/473566/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Caminho da Fe
+https://minhalista.live/channel/473568/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Trama Fantasma
+https://minhalista.live/channel/473569/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Maldicao da Casa Winchester
+https://minhalista.live/channel/473570/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Carteristas
+https://minhalista.live/channel/473571/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Eu Nao Sou Um Homem Facil
+https://minhalista.live/channel/473573/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Paterno
+https://minhalista.live/channel/473574/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Lugar Silencioso
+https://minhalista.live/channel/473575/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Projeto Eden Vol. 1
+https://minhalista.live/channel/473576/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Maldicao da casa Whinchester
+https://minhalista.live/channel/473578/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Roxanne. Roxanne
+https://minhalista.live/channel/473580/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Conspiracao Terrorista
+https://minhalista.live/channel/473581/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Os Parcas
+https://minhalista.live/channel/473586/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Com Amor. Van Gogh
+https://minhalista.live/channel/473587/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",No Limite – Overdrive
+https://minhalista.live/channel/473589/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Passado Roubado
+https://minhalista.live/channel/473590/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Touro Ferdinando
+https://minhalista.live/channel/473592/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Pantera Negra HD
+https://minhalista.live/channel/473595/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Pica-Pau: O Filme
+https://minhalista.live/channel/473596/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Noiva
+https://minhalista.live/channel/473599/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Dia Dos Mortos
+https://minhalista.live/channel/473601/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Operacao Red Sparrow
+https://minhalista.live/channel/473602/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jogador Numero 1
+https://minhalista.live/channel/473605/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",12 Herois
+https://minhalista.live/channel/473611/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Grande Jogada
+https://minhalista.live/channel/473612/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Dragon Blade
+https://minhalista.live/channel/473614/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Karate Kid 2010
+https://minhalista.live/channel/473616/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Bleeding Steel LEG
+https://minhalista.live/channel/473617/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Valerian e a Cidade dos Mil Planetas
+https://minhalista.live/channel/473618/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",As Apimentadas Desafio Mundial
+https://minhalista.live/channel/473619/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A morte de da parabens
+https://minhalista.live/channel/473620/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Motorrad A Trilha da Morte
+https://minhalista.live/channel/473622/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Nao Bata na Porta
+https://minhalista.live/channel/473623/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Em Ritmo de Fuga
+https://minhalista.live/channel/473624/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Guardioes da Galaxia
+https://minhalista.live/channel/473626/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cora Coralina Todas as vidas
+https://minhalista.live/channel/473628/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Bruxa
+https://minhalista.live/channel/473632/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Garota Dinamarquesa
+https://minhalista.live/channel/473634/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Lenda de Tarzan
+https://minhalista.live/channel/473635/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Baywatch S.O.S. Malibu
+https://minhalista.live/channel/473636/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Bruxa de Blair
+https://minhalista.live/channel/473638/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Os Batutinhas: Uma Nova Aventura
+https://minhalista.live/channel/473640/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sherlock Holmes
+https://minhalista.live/channel/473641/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sherlock Holmes: O Jogo de Sombras
+https://minhalista.live/channel/473642/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Indiana Jones e os Cacadores da Arca Perdida
+https://minhalista.live/channel/473643/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Indiana Jones e o Templo da Perdicao
+https://minhalista.live/channel/473645/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Indiana Jones e a Ultima Cruzada
+https://minhalista.live/channel/473646/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Indiana Jones e o Reino da Caveira de Cristal
+https://minhalista.live/channel/473647/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Quarteto Fantastico
+https://minhalista.live/channel/473648/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Quarteto Fantastico e o Surfista Prateado
+https://minhalista.live/channel/473650/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Quarteto Fantastico 2015
+https://minhalista.live/channel/473652/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jurassic Park: O Parque dos Dinossauros
+https://minhalista.live/channel/473654/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Mundo Perdido: Jurassic Park
+https://minhalista.live/channel/473657/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jurassic Park 3
+https://minhalista.live/channel/473659/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jurassic World: O Mundo dos Dinossauros
+https://minhalista.live/channel/473663/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Desejo Do Corpo
+https://minhalista.live/channel/473666/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Era do Gelo
+https://minhalista.live/channel/473668/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Era do Gelo 2
+https://minhalista.live/channel/473670/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Era do Gelo 3
+https://minhalista.live/channel/473671/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Era do Gelo 4
+https://minhalista.live/channel/473674/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Era do Gelo: O Big Bang
+https://minhalista.live/channel/473677/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Era do Gelo: A Grande Cacada aos Ovos de Pascoa
+https://minhalista.live/channel/473680/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Divergente
+https://minhalista.live/channel/473682/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A serie Divergente: Insurgente
+https://minhalista.live/channel/473684/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A serie Divergente: Convergente
+https://minhalista.live/channel/473685/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jogos Vorazes
+https://minhalista.live/channel/473689/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jogos Vorazes: Em chamas
+https://minhalista.live/channel/473691/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jogos Vorazes: A Esperança – Parte 1
+https://minhalista.live/channel/473692/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jogos Vorazes: A Esperança – Final
+https://minhalista.live/channel/473694/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Crepusculo
+https://minhalista.live/channel/473695/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Saga Crepusculo: Lua Nova
+https://minhalista.live/channel/473698/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Saga Crepusculo: Eclipse
+https://minhalista.live/channel/473701/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Saga Crepusculo: Amanhecer – Parte 1
+https://minhalista.live/channel/473705/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Saga Crepusculo: Amanhecer – Parte 2
+https://minhalista.live/channel/473708/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Espetacular Homem-Aranha
+https://minhalista.live/channel/473709/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Espetacular Homem-Aranha 2 – A Ameaca de Electro
+https://minhalista.live/channel/473710/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Homem-Aranha: De Volta ao Lar
+https://minhalista.live/channel/473711/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Thor?LHMTv
+https://minhalista.live/channel/473712/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Thor: O Mundo Sombrio
+https://minhalista.live/channel/473713/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Thor: Ragnarok
+https://minhalista.live/channel/473714/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Os Vingadores – The Avengers
+https://minhalista.live/channel/473715/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Vingadores – Era de Ultron
+https://minhalista.live/channel/473718/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Capitao America: O Primeiro Vingador
+https://minhalista.live/channel/473719/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Capitao America 2: O Soldado Invernal
+https://minhalista.live/channel/473720/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Capitão America: Guerra Civil
+https://minhalista.live/channel/473721/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",12 Horas
+https://minhalista.live/channel/473722/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",1984
+https://minhalista.live/channel/473723/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",8mm - Oito Milimetros
+https://minhalista.live/channel/473724/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Beira do Abismo
+https://minhalista.live/channel/473726/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Era da Escuridao - Mutant Chronicles
+https://minhalista.live/channel/473729/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A festa nunca termina
+https://minhalista.live/channel/473731/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Garota dos Meus Sonhos
+https://minhalista.live/channel/473732/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Grande Jogada
+https://minhalista.live/channel/473733/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Guerra De Hart
+https://minhalista.live/channel/473735/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Heranca de Mr. Deeds
+https://minhalista.live/channel/473737/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Hora do Rango
+https://minhalista.live/channel/473740/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Informante
+https://minhalista.live/channel/473741/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Jovem Rainha Victoria
+https://minhalista.live/channel/473743/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Lula e a Baleia
+https://minhalista.live/channel/473744/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Primeira Vista
+https://minhalista.live/channel/473747/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Rosa Purpura do Cairo
+https://minhalista.live/channel/473749/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",A Ultima Missao
+https://minhalista.live/channel/473751/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Adeus Amor
+https://minhalista.live/channel/473752/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Adoraveis Mulheres
+https://minhalista.live/channel/473753/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Africa dos Meus Sonhos
+https://minhalista.live/channel/473755/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Agente Indomavel
+https://minhalista.live/channel/473756/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",All That Jazz: O Show Deve Continuar
+https://minhalista.live/channel/473757/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Almondegas 4 - Ferias de Verao
+https://minhalista.live/channel/473758/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Amar  Trair e Roubar
+https://minhalista.live/channel/473759/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Ameaca Virtual
+https://minhalista.live/channel/473760/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Amigo de Casa
+https://minhalista.live/channel/473761/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Anjos da Noite 3 - A Rebeliao
+https://minhalista.live/channel/473763/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Apenas Uma Vez
+https://minhalista.live/channel/473764/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Aprendendo A Viver
+https://minhalista.live/channel/473766/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",As coisas impossiveis do amor
+https://minhalista.live/channel/473767/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",As Duas Faces Da Lei
+https://minhalista.live/channel/473768/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",As Faces de Helen
+https://minhalista.live/channel/473769/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Assalto Sobre Trilhos
+https://minhalista.live/channel/473771/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Atraidos Pelo Destino
+https://minhalista.live/channel/473773/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Bastidores de um Casamento
+https://minhalista.live/channel/473774/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Beast Wars - Fim Da Linha
+https://minhalista.live/channel/473775/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Bolas em Panico
+https://minhalista.live/channel/473776/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Bon Jovi - Stadium Concert
+https://minhalista.live/channel/473777/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Brinquedo Assassino
+https://minhalista.live/channel/473778/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Brokeback Mountain
+https://minhalista.live/channel/473779/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cada um Vive Como Quer
+https://minhalista.live/channel/473782/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Caes de Guerra
+https://minhalista.live/channel/473784/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Caminhos Opostos
+https://minhalista.live/channel/473785/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Casamento as Avessas
+https://minhalista.live/channel/473788/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cativeiro
+https://minhalista.live/channel/473789/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Christine - O Carro Assassino
+https://minhalista.live/channel/473790/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Cinturao Vermelho
+https://minhalista.live/channel/473791/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Codigo de Honra
+https://minhalista.live/channel/473792/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Coisas Belas E Sujas
+https://minhalista.live/channel/473793/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Como Conquistar Uma Mulher
+https://minhalista.live/channel/473795/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Comportamento Suspeito
+https://minhalista.live/channel/473796/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Conquista Sangrenta
+https://minhalista.live/channel/473797/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Corpo em Evidencia
+https://minhalista.live/channel/473799/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Crash: No Limite
+https://minhalista.live/channel/473801/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Desafio Radical
+https://minhalista.live/channel/473803/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Desaparecidas
+https://minhalista.live/channel/473804/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Divisao de Homicidios
+https://minhalista.live/channel/473805/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Encontros ao Acaso
+https://minhalista.live/channel/473807/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Enquanto Ela Esta Fora
+https://minhalista.live/channel/473809/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Equilibrio
+https://minhalista.live/channel/473810/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Erin Brockovich - Uma Mulher de Talento
+https://minhalista.live/channel/473811/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Estrada Maldita
+https://minhalista.live/channel/473812/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Estranha Obsessao
+https://minhalista.live/channel/473813/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Eu Sei Quem Me Matou
+https://minhalista.live/channel/473814/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Excesso de Bagagem
+https://minhalista.live/channel/473816/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Feitico da Lua
+https://minhalista.live/channel/473819/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Femme Fatale
+https://minhalista.live/channel/473821/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Fido - O Mascote
+https://minhalista.live/channel/473823/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Flores Partidas
+https://minhalista.live/channel/473824/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Fuga de Absolom
+https://minhalista.live/channel/473825/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Funcionario do Mes
+https://minhalista.live/channel/473826/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Garotas Selvagens 4
+https://minhalista.live/channel/473827/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Gattaca  a Experiencia Genetica
+https://minhalista.live/channel/473828/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Gleria
+https://minhalista.live/channel/473829/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Godzilla
+https://minhalista.live/channel/473831/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Grande Hotel
+https://minhalista.live/channel/473834/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Greta
+https://minhalista.live/channel/473837/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Hackers - Piratas de Computador
+https://minhalista.live/channel/473838/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Harley Davidson E Marlboro Man - Cacada Sem Tregua
+https://minhalista.live/channel/473839/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Haven
+https://minhalista.live/channel/473841/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Herois Imaginarios
+https://minhalista.live/channel/473843/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Homens Perigosos
+https://minhalista.live/channel/473844/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Homens de Preto
+https://minhalista.live/channel/473845/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Honra & Coragem - As Quatro Plumas
+https://minhalista.live/channel/473847/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Hooligans: Furia nos campos
+https://minhalista.live/channel/473848/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Horas de Desespero
+https://minhalista.live/channel/473849/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Hotel Ruanda
+https://minhalista.live/channel/473850/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Impacto Mortal
+https://minhalista.live/channel/473851/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Inocente ou Culpado
+https://minhalista.live/channel/473854/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Ironias do Amor
+https://minhalista.live/channel/473855/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",JCVD
+https://minhalista.live/channel/473856/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jogando com Prazer
+https://minhalista.live/channel/473857/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jogos Trapacas E dois Canos Fumegantes
+https://minhalista.live/channel/473859/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jogue a Mamae do Trem - Comedia
+https://minhalista.live/channel/473861/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Jovens Bruxas
+https://minhalista.live/channel/473862/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Kalifornia - Uma Viagem ao Inferno
+https://minhalista.live/channel/473863/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Kung-Fu Futebol Clube
+https://minhalista.live/channel/473864/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Kung-Fusao
+https://minhalista.live/channel/473865/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Laurel Canyon - A Rua das Tentacoes
+https://minhalista.live/channel/473866/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Lawrence da Arabia
+https://minhalista.live/channel/473867/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Lembrancas de Hollywood
+https://minhalista.live/channel/473869/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Lenda Urbana 3 - A Vinganca de Mary
+https://minhalista.live/channel/473870/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Lendas da Paixao
+https://minhalista.live/channel/473871/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Malicia
+https://minhalista.live/channel/473872/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Marcas do Passado
+https://minhalista.live/channel/473876/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Matador de Aluguel
+https://minhalista.live/channel/473878/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Menina Ma.com
+https://minhalista.live/channel/473879/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Meus Quinze Anos
+https://minhalista.live/channel/473880/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Mal Posso Esperar
+https://minhalista.live/channel/473881/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Meu Primeiro Amor
+https://minhalista.live/channel/473883/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Meu Primeiro Amor - Parte 2
+https://minhalista.live/channel/473884/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Mixed Nuts
+https://minhalista.live/channel/473885/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Modigliani
+https://minhalista.live/channel/473886/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Nao Adianta Fugir
+https://minhalista.live/channel/473887/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Nao eh Mais Um Besteirol Americano
+https://minhalista.live/channel/473888/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Nao Sem a Minha Filha
+https://minhalista.live/channel/473890/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Nem por cima do Meu Cadaver
+https://minhalista.live/channel/473895/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Nem Tudo eh o Que Parece
+https://minhalista.live/channel/473897/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Balconista
+https://minhalista.live/channel/473898/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Cantor
+https://minhalista.live/channel/473899/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Casamento de Rachel
+https://minhalista.live/channel/473900/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Colecionador de Ossos
+https://minhalista.live/channel/473901/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Despertar de Uma Paixao
+https://minhalista.live/channel/473902/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Grande Anjo Negro
+https://minhalista.live/channel/473903/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Grito 2
+https://minhalista.live/channel/473904/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Guardiao
+https://minhalista.live/channel/473905/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Guardiao 2
+https://minhalista.live/channel/473906/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Guardiao 3
+https://minhalista.live/channel/473907/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Ilusionista
+https://minhalista.live/channel/473908/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Inquilino
+https://minhalista.live/channel/473909/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Julgamento de Paris
+https://minhalista.live/channel/473910/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Legionario
+https://minhalista.live/channel/473912/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Oposto do Sexo
+https://minhalista.live/channel/473913/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Paraiso eh Logo Aqui
+https://minhalista.live/channel/473914/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Povo contra Larry Flint
+https://minhalista.live/channel/473916/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Principal Suspeito
+https://minhalista.live/channel/473917/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Rancho do Amor
+https://minhalista.live/channel/473918/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Retorno do Campeao
+https://minhalista.live/channel/473919/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Sangue de Romeo
+https://minhalista.live/channel/473920/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Segredo de Brokeback Mountain
+https://minhalista.live/channel/473922/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Senhor Das Armas
+https://minhalista.live/channel/473923/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Sequestro do Metro
+https://minhalista.live/channel/473924/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Tango e o Assassino
+https://minhalista.live/channel/473926/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",O Vigarista do Ano
+https://minhalista.live/channel/473928/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Oliver!
+https://minhalista.live/channel/473930/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Os Produtores
+https://minhalista.live/channel/473931/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Os Reis de dogtown
+https://minhalista.live/channel/473934/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Os safados
+https://minhalista.live/channel/473937/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Os Seus os Meus e os Nossos
+https://minhalista.live/channel/473938/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Ouro Branco
+https://minhalista.live/channel/473939/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Poder e Corrupcao
+https://minhalista.live/channel/473941/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Por Amor
+https://minhalista.live/channel/473942/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Primeira Descida
+https://minhalista.live/channel/473944/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Procurando Encrenca
+https://minhalista.live/channel/473946/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Procura-se um Bum Bum Desesperadamente
+https://minhalista.live/channel/473947/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Quando um Estranho Chama
+https://minhalista.live/channel/473949/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Quarentena
+https://minhalista.live/channel/473950/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Quase Ilegal
+https://minhalista.live/channel/473952/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Red: Aposentados e Perigosos
+https://minhalista.live/channel/473953/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Rede de Intrigas
+https://minhalista.live/channel/473954/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Replicante
+https://minhalista.live/channel/473955/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Risco Absoluto
+https://minhalista.live/channel/473956/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Ruslan - Vinganca Explosiva
+https://minhalista.live/channel/473957/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",S.W.A.T.
+https://minhalista.live/channel/473958/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Secretaria
+https://minhalista.live/channel/473959/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Seducao Fatal
+https://minhalista.live/channel/473960/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sedutora e Diabolica
+https://minhalista.live/channel/473961/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Segundas Intencoes 3
+https://minhalista.live/channel/473962/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sem Saida
+https://minhalista.live/channel/473964/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sete Vidas
+https://minhalista.live/channel/473966/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sitie
+https://minhalista.live/channel/473968/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sob Suspeita (2006)
+https://minhalista.live/channel/473969/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sociedade Feroz
+https://minhalista.live/channel/473972/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Soldado Universal 3
+https://minhalista.live/channel/473975/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Solteira Procura 2
+https://minhalista.live/channel/473977/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Sou Espiao
+https://minhalista.live/channel/473979/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Stigmata
+https://minhalista.live/channel/473980/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Studio 54
+https://minhalista.live/channel/473981/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Superbad - Eh Hoje
+https://minhalista.live/channel/473982/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Swingers - Curtindo a Noite
+https://minhalista.live/channel/473984/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Tempos de Violencia
+https://minhalista.live/channel/473985/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Tentaculos
+https://minhalista.live/channel/473986/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",The Final Cut
+https://minhalista.live/channel/473987/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",The Woman In The Fifth
+https://minhalista.live/channel/473989/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Torturado
+https://minhalista.live/channel/473990/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Tres Amigos!
+https://minhalista.live/channel/473993/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Tres Formas de Amar
+https://minhalista.live/channel/473995/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Tudo que voce precisa saber sobre Sexo
+https://minhalista.live/channel/473998/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Uma Turma do Barulho
+https://minhalista.live/channel/473999/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Uma Noiva e Tanto
+https://minhalista.live/channel/474000/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Uma Beleza de Salao
+https://minhalista.live/channel/474002/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Voo Muito Louco
+https://minhalista.live/channel/474005/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Tira Muito Suspeito
+https://minhalista.live/channel/474006/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Segredo entre Nos
+https://minhalista.live/channel/474007/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Peixe Chamado Wanda
+https://minhalista.live/channel/474009/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Ninja em Beverly Hills
+https://minhalista.live/channel/474010/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Homem Fora de Serie
+https://minhalista.live/channel/474011/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Homem Bom
+https://minhalista.live/channel/474013/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Dia Muito Louco
+https://minhalista.live/channel/474014/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Crime entre Amigas
+https://minhalista.live/channel/474015/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Beijo Roubado
+https://minhalista.live/channel/474018/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Ato de Liberdade
+https://minhalista.live/channel/474019/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Um Amor de Verao
+https://minhalista.live/channel/474022/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Vou te Pegar Otario
+https://minhalista.live/channel/474024/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Violacao de Privacidade
+https://minhalista.live/channel/474026/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Vinganca
+https://minhalista.live/channel/474027/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Vidas que se Cruzam
+https://minhalista.live/channel/474028/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Viciado em Sexo
+https://minhalista.live/channel/474031/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Vestida para Matar
+https://minhalista.live/channel/474032/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",Vamos Nessa
+https://minhalista.live/channel/474034/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes",xXx 2 - Estado de Emergencia
+https://minhalista.live/channel/474037/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ef3b619aa62cef12db46a3dfd0dc759e_online.jpg" group-title="RÁDIOS",Rádio K-Pop
+https://minhalista.live/channel/474044/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d16ae11770fa08303deb8eec45f7b693_online.jpg" group-title="RÁDIOS",Rádio Folk
+https://minhalista.live/channel/474045/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8e56fac05431d81a4de36ffd711f09b2_online.jpg" group-title="RÁDIOS",Rádio Gospel Internacional
+https://minhalista.live/channel/474047/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0dc0051d26f9abab9d0b20d5df2825a3_online.jpg" group-title="RÁDIOS",Rádio Gospel
+https://minhalista.live/channel/474048/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c916efa5bd52b3b99e435f0472803e5c_online.jpg" group-title="RÁDIOS",Rádio Reggae
+https://minhalista.live/channel/474050/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/455a6274d7b75bdd613bc90693b3efa1_online.jpg" group-title="RÁDIOS",Rádio Rock
+https://minhalista.live/channel/474054/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1316035f7c8be00548ebb86972b304f8_online.jpg" group-title="RÁDIOS",Rádio Forró
+https://minhalista.live/channel/474056/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/250966f6112f9ef614a5ffda05e17a1c_online.jpg" group-title="RÁDIOS",Rádio Pop
+https://minhalista.live/channel/474057/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c47b1e1ce8b85228bcefb8dda771c7c8_online.jpg" group-title="RÁDIOS",Rádio Latina
+https://minhalista.live/channel/474058/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4d955b53c85ced919b7dcac34965954a_online.jpg" group-title="RÁDIOS",Rádio Eletrônica
+https://minhalista.live/channel/474060/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ec8c31c12c8524c3ebb53916d21b9d3f_online.jpg" group-title="RÁDIOS",Rádio Hip-Hop
+https://minhalista.live/channel/474061/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ac44d453f2300e622cc80e46fcc48f80_online.jpg" group-title="RÁDIOS",Rádio Pop Rock
+https://minhalista.live/channel/474063/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6462ab1cede8958c5c4098f5fd3c7b5c_online.jpg" group-title="RÁDIOS",Rádio Funk
+https://minhalista.live/channel/474064/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9024cdbd26a51bde49e4082662f3caab_online.jpg" group-title="RÁDIOS",Rádio Pagode
+https://minhalista.live/channel/474065/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e562265056b336336838a765cf678b27_online.jpg" group-title="RÁDIOS",Rádio Rock
+https://minhalista.live/channel/474067/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/da902987ed6206d355adbefd6b59dcab_online.jpg" group-title="RÁDIOS",Rádio MPB
+https://minhalista.live/channel/474072/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/03b4151a425046592482f1240bafdccd_online.jpg" group-title="RÁDIOS",Rádio Sertanejo
+https://minhalista.live/channel/474076/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e4a7d059251e30af1570739ae862466a_online.jpg" group-title="RÁDIOS",Rádio Sertanejo Romântico
+https://minhalista.live/channel/474079/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c44cd3b40984f6a15a9655771916fb6b_online.jpg" group-title="RÁDIOS",Rádio Anos 80
+https://minhalista.live/channel/474082/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/19c3a247a50f6304ad775fee27ebb50b_online.jpg" group-title="RÁDIOS",Rádio Anos 90
+https://minhalista.live/channel/474083/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0b067f5b60a2fceadab4789019214f7d_online.jpg" group-title="RÁDIOS",Rádio Anos 2000
+https://minhalista.live/channel/474084/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/bf6896350d321517219640d6617984ac_online.jpg" group-title="RÁDIOS",Rádio Pop Nacional
+https://minhalista.live/channel/474086/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/715dce6b6ef1365acde5a4afaec6ace7_online.jpg" group-title="RÁDIOS",Rádio Pop Rock Nacional
+https://minhalista.live/channel/474088/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/89642fa79bf5a5f7e1f542dd1506ea62_online.jpg" group-title="RÁDIOS",Rádio J-Pop
+https://minhalista.live/channel/474090/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8b21b04d84a79af0080f4fa8bcbe29e2_online.jpg" group-title="RÁDIOS",Rádio Românticas
+https://minhalista.live/channel/474093/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/362f0a1ed6c7d73ebef218bdd5dc65b0_online.jpg" group-title="RÁDIOS",Rádio Disney FM
+https://minhalista.live/channel/474094/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/69a6681785704d029a98169eead8bae0_online.jpg" group-title="RÁDIOS",Rádio Mega FM
+https://minhalista.live/channel/474097/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6697224783fe3e561e3260e8e6064a98_online.jpg" group-title="RÁDIOS",Rádio Estação Top FM
+https://minhalista.live/channel/474098/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/19919e391cc08ce665d7450c4dc6f1e4_online.jpg" group-title="RÁDIOS",Rádio Top FM
+https://minhalista.live/channel/474100/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/87414942b922245eeae69c17cca7c19b_online.jpg" group-title="RÁDIOS",Rádio CBN AM
+https://minhalista.live/channel/474104/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/edd58fdc1bbd70bcca163336fef94ef1_online.jpg" group-title="RÁDIOS",Rádio Mundial AM
+https://minhalista.live/channel/474110/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e2c49f58555d0c00aecd3aa8b36c9ecb_online.jpg" group-title="RÁDIOS",Rádio Nossa Rádio AM
+https://minhalista.live/channel/474113/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/08774d8adc6b749fa5cc131803c3b4e8_online.jpg" group-title="RÁDIOS",Rádio Trianon AM
+https://minhalista.live/channel/474116/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/cf9b218c4eebff8c391fd8b5e31544f0_online.jpg" group-title="RÁDIOS",Rádio Gazeta AM
+https://minhalista.live/channel/474118/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/45e67250dad071e6a2f0217747840fde_online.jpg" group-title="RÁDIOS",Rádio Cultura AM
+https://minhalista.live/channel/474124/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9036af9294e46f4e558184ed28a5315f_online.jpg" group-title="RÁDIOS",Rádio Super RBV AM
+https://minhalista.live/channel/474126/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7d4c88937cedbd0b0f0176a0771a79dd_online.jpg" group-title="RÁDIOS",Rádio Bandeirantes AM
+https://minhalista.live/channel/474127/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/dc649a661d1e59f6f6a8856f4ec491c5_online.jpg" group-title="RÁDIOS",Rádio Mix FM
+https://minhalista.live/channel/474128/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4a25935af46e5dda2286fed0079ec4f0_online.jpg" group-title="RÁDIOS",Rádio Metropolitana FM
+https://minhalista.live/channel/474130/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4b4f8e7542488197dac14d502879ffe1_online.jpg" group-title="RÁDIOS",Rádio Antena 1 FM
+https://minhalista.live/channel/474131/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4da94e847d6188976460c09446c5c44d_online.jpg" group-title="RÁDIOS",Rádio Feliz FM
+https://minhalista.live/channel/474134/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9b4b8a07672d81b1d7613abf523a68d1_online.jpg" group-title="RÁDIOS",Rádio Band FM
+https://minhalista.live/channel/474135/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/76186bae83d6fd87b8a05af181454427_online.jpg" group-title="RÁDIOS",Rádio News FM
+https://minhalista.live/channel/474136/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1853ee5b9dd32d027c553cb7a5732ff9_online.jpg" group-title="RÁDIOS",Rádio Nativa FM
+https://minhalista.live/channel/474140/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2f6278747d939ea36c9b6f340bb71384_online.jpg" group-title="RÁDIOS",Rádio Band Vale FM
+https://minhalista.live/channel/474141/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/eff0ca1364877e4a7c0064506094c9a2_online.jpg" group-title="RÁDIOS",Rádio Globo FM
+https://minhalista.live/channel/474145/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/163fc55c6a6c6fb948fb9a63d6a6f54c_online.jpg" group-title="RÁDIOS",Rádio BH FM
+https://minhalista.live/channel/474147/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/535d929cae458d4dab7fb53f045c640a_online.jpg" group-title="RÁDIOS",Rádio Cachoeira AM
+https://minhalista.live/channel/474149/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ed1145039b8796ecfe32e6023a6d155e_online.jpg" group-title="RÁDIOS",Rádio Nova FM
+https://minhalista.live/channel/474150/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/21caa162cbef39dbf69b6f13195a8e10_online.jpg" group-title="RÁDIOS",Rádio Clube Bagé AM
+https://minhalista.live/channel/474159/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/eb89e1a9e76374678960d496996e90a4_online.jpg" group-title="RÁDIOS",Rádio Alegria FM
+https://minhalista.live/channel/474161/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/97aa1f337d9663b43abda48bd9bc0975_online.jpg" group-title="RÁDIOS",Rádio Itapema FM
+https://minhalista.live/channel/474162/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/1c6644d98c4a546c505816dc1eade07d_online.jpg" group-title="RÁDIOS",Rádio Novo Tempo FM
+https://minhalista.live/channel/474164/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a3a520f44c8e1bdd40ce59422491cc8e_online.jpg" group-title="RÁDIOS",Rádio Atlântida FM
+https://minhalista.live/channel/474171/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e8c982625b780f16f8622eded0f9b65e_online.jpg" group-title="RÁDIOS",Rádio Farroupilha FM/AM
+https://minhalista.live/channel/474172/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6a4836805971db594187cd7770518d51_online.jpg" group-title="RÁDIOS",Rádio Gaúcha FM/AM
+https://minhalista.live/channel/474175/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/42e25df33abc9d236577217f51532347_online.jpg" group-title="RÁDIOS",Gr6 Explode FM
+https://minhalista.live/channel/474177/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/59b3419887c62782e610e2c8f6116a36_online.jpg" group-title="RÁDIOS",Rádio Mania FM
+https://minhalista.live/channel/474180/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/fc0499375a855a978e860ac5efac1b50_online.jpg" group-title="RÁDIOS",Rádio Transamerica FM
+https://minhalista.live/channel/474182/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/eccb002e976c4234a6a00e1e67da590d_online.jpg" group-title="RÁDIOS",Rádio Jovem Pan FM
+https://minhalista.live/channel/474184/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/cff4c4cd0594d5bd80e5da374a1b5363_online.jpg" group-title="RÁDIOS",Rádio Princesa FM
+https://minhalista.live/channel/474204/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/5dd16621f095fc273fe66b2701c27aee_online.jpg" group-title="RÁDIOS",Rádio K-Pop
+https://minhalista.live/channel/474206/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/869d12962e4ea90ffcfe6e45f2a3eff2_online.jpg" group-title="RÁDIOS",Rádio Folk
+https://minhalista.live/channel/474207/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f2751a56013daa2b266261b47d92a915_online.jpg" group-title="RÁDIOS",Rádio Gospel Internacional
+https://minhalista.live/channel/474209/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/436dd43759129142572f92f785f3c66a_online.jpg" group-title="RÁDIOS",Rádio Gospel
+https://minhalista.live/channel/474212/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4ee06bded0f6cd960e32469e3f8ea22a_online.jpg" group-title="RÁDIOS",Rádio Reggae
+https://minhalista.live/channel/474213/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7528296969068fd22b5859eb3c86d91f_online.jpg" group-title="RÁDIOS",Rádio Rock
+https://minhalista.live/channel/474214/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/67be28918cf611630cf8d5e73a8775f7_online.jpg" group-title="RÁDIOS",Rádio Forró
+https://minhalista.live/channel/474216/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/da1c2979e62d96488b9b975236c2b00b_online.jpg" group-title="RÁDIOS",Rádio Pop
+https://minhalista.live/channel/474217/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/75d3899def57b38866450153b821a581_online.jpg" group-title="RÁDIOS",Rádio Latina
+https://minhalista.live/channel/474218/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/83e4a5c0f60615afe06b01f640ebbb13_online.jpg" group-title="RÁDIOS",Rádio Eletrônica
+https://minhalista.live/channel/474220/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4ebae4b0b8d1d72ee50622c24c0e24dd_online.jpg" group-title="RÁDIOS",Rádio Hip-Hop
+https://minhalista.live/channel/474224/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/9c454a2c670d70060db95c069cb9b9d1_online.jpg" group-title="RÁDIOS",Rádio Pop Rock
+https://minhalista.live/channel/474225/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/017729184c5cec95e5637b7899b07161_online.jpg" group-title="RÁDIOS",Rádio Funk
+https://minhalista.live/channel/474227/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/11994c0f9b54fa0bc723ed6736577e96_online.jpg" group-title="RÁDIOS",Rádio Pagode
+https://minhalista.live/channel/474228/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/2e1a98b5a29cc5be5e2a197ca3f35b59_online.jpg" group-title="RÁDIOS",Rádio Rock
+https://minhalista.live/channel/474229/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a391d3cb8cf6e7203816922fac18a181_online.jpg" group-title="RÁDIOS",Rádio MPB
+https://minhalista.live/channel/474230/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7bb54170f3f33b87b334b8f7f1918275_online.jpg" group-title="RÁDIOS",Rádio Sertanejo
+https://minhalista.live/channel/474231/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ae4c2a96c47c298b9a262ab791a656fb_online.jpg" group-title="RÁDIOS",Rádio Sertanejo Romântico
+https://minhalista.live/channel/474233/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e92593249dcbc9915d1989109d23219c_online.jpg" group-title="RÁDIOS",Rádio Anos 80
+https://minhalista.live/channel/474235/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e126de322c3a5d2e139890cc4f70c49c_online.jpg" group-title="RÁDIOS",Rádio Anos 90
+https://minhalista.live/channel/474237/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/673f6ec54f47374f517aa96eba834d79_online.jpg" group-title="RÁDIOS",Rádio Anos 2000
+https://minhalista.live/channel/474239/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/633276a5d7935b69d7a32801f4f43461_online.jpg" group-title="RÁDIOS",Rádio Pop Nacional
+https://minhalista.live/channel/474240/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ff17d6d1e5d6c5246422d130b6a5e56c_online.jpg" group-title="RÁDIOS",Rádio Pop Rock Nacional
+https://minhalista.live/channel/474242/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4cf8ee2cdf49435fb068c8cd0eb95f9e_online.jpg" group-title="RÁDIOS",Rádio J-Pop
+https://minhalista.live/channel/474243/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b6ca6073ecd717f79c358ff8cdb9c7ec_online.jpg" group-title="RÁDIOS",Rádio Românticas
+https://minhalista.live/channel/474244/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/91c45b7b1bac490c18bef37ca7ee4431_online.jpg" group-title="RÁDIOS",Rádio Disney FM
+https://minhalista.live/channel/474245/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ec0a4f8ca6545e206b3622eb9c85c086_online.jpg" group-title="RÁDIOS",Rádio Mega FM
+https://minhalista.live/channel/474246/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/88af1385945e6e5e4de7ab138c9360aa_online.jpg" group-title="RÁDIOS",Rádio Estação Top FM
+https://minhalista.live/channel/474249/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/95ad7db74c90fa8f3394b54414232b70_online.jpg" group-title="RÁDIOS",Rádio Top FM
+https://minhalista.live/channel/474250/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/038a809907c3a0a964873f5fede62687_online.jpg" group-title="RÁDIOS",Rádio Nossa Rádio AM
+https://minhalista.live/channel/474253/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e90efb79105cda16f1f1904475665aa9_online.jpg" group-title="RÁDIOS",Rádio Trianon AM
+https://minhalista.live/channel/474254/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/00e2c69bcd64013385def62ed943498d_online.jpg" group-title="RÁDIOS",Rádio Gazeta AM
+https://minhalista.live/channel/474255/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/77c7dd9d68063fc70b7b75358e3ddf4e_online.jpg" group-title="RÁDIOS",Rádio Cultura AM
+https://minhalista.live/channel/474257/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e26994b147cd7c903ff1b439131bd1aa_online.jpg" group-title="RÁDIOS",Rádio Super RBV AM
+https://minhalista.live/channel/474258/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a364bd79a9e918fb5604dc95fd45e8aa_online.jpg" group-title="RÁDIOS",Rádio Bandeirantes AM
+https://minhalista.live/channel/474260/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d827595eec2d29871c9d6f7e1b993484_online.jpg" group-title="RÁDIOS",Rádio Mix FM
+https://minhalista.live/channel/474261/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/902394b4697033f65792c2eeb2b9c7f1_online.jpg" group-title="RÁDIOS",Rádio Metropolitana FM
+https://minhalista.live/channel/474262/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a74054ffec8ec551f83fd207f2ce2978_online.jpg" group-title="RÁDIOS",Rádio Feliz FM
+https://minhalista.live/channel/474264/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/31ac5aa0d06cfc50df638ab9397cb74e_online.jpg" group-title="RÁDIOS",Rádio Band FM
+https://minhalista.live/channel/474265/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7833728dcb9aece3a5414bd07fb3c9d8_online.jpg" group-title="RÁDIOS",Rádio News FM
+https://minhalista.live/channel/474267/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/219c7b44e4bd78861d7fb42bf65fccac_online.jpg" group-title="RÁDIOS",Rádio Nativa FM
+https://minhalista.live/channel/474268/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/8eda5c5ca266e79d0d235f0231430630_online.jpg" group-title="RÁDIOS",Rádio Band Vale FM
+https://minhalista.live/channel/474269/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/97224db5a06dd4391ba2d2b0d082b218_online.jpg" group-title="RÁDIOS",Rádio Globo FM
+https://minhalista.live/channel/474270/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/816729a3eeee1de1a27e87033cbd98a0_online.jpg" group-title="RÁDIOS",Rádio BH FM
+https://minhalista.live/channel/474271/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d6f337a2ce073fb38ef9f83df8fb8a08_online.jpg" group-title="RÁDIOS",Rádio Cachoeira AM
+https://minhalista.live/channel/474272/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c81323fc6bb50a74aa9531fbde7b8976_online.jpg" group-title="RÁDIOS",Rádio Nova FM
+https://minhalista.live/channel/474274/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/292bcc475d914cdd80e65fe2129dde7a_online.jpg" group-title="RÁDIOS",Rádio Clube Bagé AM
+https://minhalista.live/channel/474275/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3ed0890e0cb7ab7e1dce72d0895b3ea9_online.jpg" group-title="RÁDIOS",Rádio Alegria FM
+https://minhalista.live/channel/474276/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/04f6d86dffe9ef8ad93a788d347387b5_online.jpg" group-title="RÁDIOS",Rádio Itapema FM
+https://minhalista.live/channel/474279/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/b08686b62c09123413337be69bd7454d_online.jpg" group-title="RÁDIOS",Rádio Novo Tempo FM
+https://minhalista.live/channel/474280/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c00249f20b40fe507731e53f96a6326d_online.jpg" group-title="RÁDIOS",Rádio Atlântida FM
+https://minhalista.live/channel/474284/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/3dce5f930134b6105cae1b960c8b6e65_online.jpg" group-title="RÁDIOS",Rádio Farroupilha FM/AM
+https://minhalista.live/channel/474285/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f875e016accf5d81789feb73b4f2c001_online.jpg" group-title="RÁDIOS",Rádio Gaúcha FM/AM
+https://minhalista.live/channel/474287/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/165548aa6468655922953b44cb897cb8_online.jpg" group-title="RÁDIOS",Gr6 Explode FM
+https://minhalista.live/channel/474288/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/488a96cf582cefff99b85005cfb00a48_online.jpg" group-title="RÁDIOS",Rádio Mix FM
+https://minhalista.live/channel/474292/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/624522440f89c45fd21c370c58915c00_online.jpg" group-title="RÁDIOS",Rádio Mania FM
+https://minhalista.live/channel/474295/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c2149551a7888d4f2c66e8b709668006_online.jpg" group-title="RÁDIOS",Rádio Princesa FM
+https://minhalista.live/channel/474312/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4f95e0bd8ecc49f7423da25a74fcd0ab_online.jpg" group-title="ADULTO +18",Playboy TV
+https://minhalista.live/channel/474317/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ADULTO +18",Jasmin HD
+https://minhalista.live/channel/474320/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ADULTO +18",Miami TV espana
+https://minhalista.live/channel/474321/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ADULTO +18",Miami TV Latina
+https://minhalista.live/channel/474324/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ADULTO +18",Visit-X
+https://minhalista.live/channel/474326/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/c8326667888e7e5e004e180ee7158072_online.jpg" group-title="ADULTO +18",Redlight
+https://minhalista.live/channel/474327/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6243138ba6218d8ef484fd09e0ae38a7_online.jpg" group-title="ADULTO +18",Jasmin.TV
+https://minhalista.live/channel/474339/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d07ed6780780e35360af00575b5a97db_online.jpg" group-title="ADULTO +18",XXL
+https://minhalista.live/channel/474358/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ADULTOS +18",JASMIN
+https://minhalista.live/channel/474362/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ADULTOS +18",PLAY BOY
+https://minhalista.live/channel/474366/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ADULTOS +18",MIAMI TV
+https://minhalista.live/channel/474367/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ADULTOS +18",MIAMI TV LATINA
+https://minhalista.live/channel/474368/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="ADULTOS +18",VISIT-X
+https://minhalista.live/channel/474371/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e61e99dd3f5d112bbe14d6b1de38fc16_online.jpg" group-title="Filmes Adultos",As Panteras - Incesto 7
+https://minhalista.live/channel/474374/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/fc9301dd2fab58d8c3900c620623765e_online.jpg" group-title="Filmes Adultos",Angel Lima fazendo dupla penetração
+https://minhalista.live/channel/474377/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/fcd3163316dc680193ede1e36de0a212_online.jpg" group-title="Filmes Adultos",Ninfeta brasileira fodendo com vizinho
+https://minhalista.live/channel/474378/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/dac9929c44018fcee1a40eaf9a89f1d5_online.jpg" group-title="Filmes Adultos",Putinha sentando forte no pau grande do namorado
+https://minhalista.live/channel/474379/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d8d057c56f821d58c90152399860209a_online.jpg" group-title="Filmes Adultos",Novinha amadora gostosa dando a xoxota
+https://minhalista.live/channel/474380/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/63627004c4519d11b5aa89aef13c4834_online.jpg" group-title="Filmes Adultos",Amigas no hotel trepando
+https://minhalista.live/channel/474382/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/52a79289309b28568a47a3b3f5ba3a8c_online.jpg" group-title="Filmes Adultos",Morenaça rabuda fodendo no cassete grosso
+https://minhalista.live/channel/474383/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/702985ecff3e3ff1a81b00789172bc71_online.jpg" group-title="Filmes Adultos",Chupando a boceta grande
+https://minhalista.live/channel/474384/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4f94ad214cc37c8b4f762734b66c5e85_online.jpg" group-title="Filmes Adultos",Pâmela Pantera fodendo toda lambuzada de óleo
+https://minhalista.live/channel/474385/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/666ab272c4023b1f210d7c239bd75b37_online.jpg" group-title="Filmes Adultos",Giovana Bombom fodendo cheia de tesão
+https://minhalista.live/channel/474390/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a3a86740f7643c76a575abaab5ee630b_online.jpg" group-title="Filmes Adultos",Manu Fox fodendo na cozinha
+https://minhalista.live/channel/474392/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/d39d9f1665aeff36c04c4aba047aaf9c_online.jpg" group-title="Filmes Adultos",rabudas levando pica grande do gringo tarado
+https://minhalista.live/channel/474395/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/14586b9f756b827a168860f32e731543_online.jpg" group-title="Filmes Adultos",gostosas fazendo boquete
+https://minhalista.live/channel/474396/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7a3a13987c1a0d49c1705b31a76f496c_online.jpg" group-title="Filmes Adultos",Empregada gostosona fodendo com o filho tarado do patrão
+https://minhalista.live/channel/474397/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/cfcb9bc41d7476f87c688d458396e139_online.jpg" group-title="Filmes Adultos",metendo com o negão pauzudo
+https://minhalista.live/channel/474399/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/4f4488a58328a76677ca9c52601a6237_online.jpg" group-title="Filmes Adultos",Brasileira novinha de bunda grande trepando com negro safado
+https://minhalista.live/channel/474400/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ce9cb8f2d1f591f69792398de5d0c334_online.jpg" group-title="Filmes Adultos",Putinha peituda dando pra dois mulatos de cacete grande
+https://minhalista.live/channel/474402/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e91092e339ce7b672467162fe8a47013_online.jpg" group-title="Filmes Adultos",Dois paus no mesmo cu
+https://minhalista.live/channel/474405/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e885b2a01faf77579ea8fde9259d2e6a_online.jpg" group-title="Filmes Adultos",Sexo quente com uma morena safada
+https://minhalista.live/channel/474406/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/ab0aee1df40f8c4245b8462188eaad5e_online.jpg" group-title="Filmes Adultos",fodendo na banheira
+https://minhalista.live/channel/474407/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e1b6736439fef7b81ba49b47a6cae5b8_online.jpg" group-title="Filmes Adultos",Loirinha safada no motel
+https://minhalista.live/channel/474408/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/40de9c9410fb0df1f865bf979a62da5e_online.jpg" group-title="Filmes Adultos",Loirinha safada no motel
+https://minhalista.live/channel/474409/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/e8d76e46806633ea295d210a944722e3_online.jpg" group-title="Filmes Adultos",Loirinha brasileira no seu primeiro porno
+https://minhalista.live/channel/474411/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f3663bf3807130645ed53914dc507181_online.jpg" group-title="Filmes Adultos",Pegou na praia e levou para o motel
+https://minhalista.live/channel/474413/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/6debf28750858dc67840b33c1f54bc06_online.jpg" group-title="Filmes Adultos",Marido aquecendo para o negrão comer
+https://minhalista.live/channel/474415/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/522a076948f34aa571f66f4db1060cda_online.jpg" group-title="Filmes Adultos",Loira Charmosa
+https://minhalista.live/channel/474416/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/7f4ddcbf6e8f40f17f51eab291de19a7_online.jpg" group-title="Filmes Adultos",Ingênua Mas Adora Foder
+https://minhalista.live/channel/474417/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/646f3ad345463ce20b9cfdc9be0b267d_online.jpg" group-title="Filmes Adultos",Escola da Safadeza
+https://minhalista.live/channel/474418/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/f30f9f1ca86e67e6862b9c545f5fe9b3_online.jpg" group-title="Filmes Adultos",Do Cuzinho Pra Boca
+https://minhalista.live/channel/474420/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/bf22fc8082298f68e40abb6416d2b5f2_online.jpg" group-title="Filmes Adultos",Só Rabuda Deliciosa
+https://minhalista.live/channel/474421/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/422f65dc4c45d6af9b35cc29e20c6b27_online.jpg" group-title="Filmes Adultos",Ousadia em Locais Pouco Discretos
+https://minhalista.live/channel/474423/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/0a06b9b5040d478fdec6898a98028197_online.jpg" group-title="Filmes Adultos",Primeira Vez no Pornô
+https://minhalista.live/channel/474424/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/a818dba9839ce9be59fbf310f0085f05_online.jpg" group-title="Filmes Adultos",Viviane Araújo a Stripper
+https://minhalista.live/channel/474425/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/images/channels/203f64990571449f74a82cc37d6b3602_online.jpg" group-title="Filmes Adultos",Quinta do Conde
+https://minhalista.live/channel/474427/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",SBT SP INTERIOR
+https://minhalista.live/channel/476142/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",REDE TV SP
+https://minhalista.live/channel/476143/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",TV Futura PR
+https://minhalista.live/channel/476144/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",RECORD INTERNACIONAL
+https://minhalista.live/channel/476145/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",TV BRASIL
+https://minhalista.live/channel/476146/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",TV ESCOLA HD
+https://minhalista.live/channel/476147/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais abertos",TV Aberta
+https://minhalista.live/channel/476150/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",TV GAZETA HD
+https://minhalista.live/channel/476151/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",MULTI TV
+https://minhalista.live/channel/476153/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV Aberta",TV ESCOLA HD
+https://minhalista.live/channel/476154/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",CINE SKY
+https://minhalista.live/channel/476156/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Filmes",NOVA CINEMA 03
+https://minhalista.live/channel/476158/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Filmes",NOVA CINEMA 04
+https://minhalista.live/channel/476159/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Filmes",NOVA CINEMA 05
+https://minhalista.live/channel/476160/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Filmes",NOVA CINEMA 04
+https://minhalista.live/channel/476161/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Canais Filmes",Canais Filmes GOSPELS
+https://minhalista.live/channel/476162/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TNT Series
+https://minhalista.live/channel/476170/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",13 Minutos
+https://minhalista.live/channel/476286/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",Guerra Fria
+https://minhalista.live/channel/476287/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",Fora do Rumo
+https://minhalista.live/channel/476288/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",Sr Pig
+https://minhalista.live/channel/476291/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",Espelho Espelho Meu
+https://minhalista.live/channel/476292/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",Tarzan a Lenda
+https://minhalista.live/channel/476294/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",O Colecionador de Corpos
+https://minhalista.live/channel/476295/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",A Chave Mestra
+https://minhalista.live/channel/476296/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",Noite de Crime 1
+https://minhalista.live/channel/476297/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",Noite de Crime 2
+https://minhalista.live/channel/476298/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FILMES HD",Noite de Crime 3
+https://minhalista.live/channel/476299/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Hulk Vs. Thor
+https://minhalista.live/channel/476320/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GOSPEL CARTOON
+https://minhalista.live/channel/476321/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GOSPEL CARTOON
+https://minhalista.live/channel/476322/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",HISTORINHA INFANTIL
+https://minhalista.live/channel/476323/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Kids
+https://minhalista.live/channel/476324/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GOSPEL CARTOON
+https://minhalista.live/channel/476325/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Nick Jr
+https://minhalista.live/channel/476328/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",DISNEY XD
+https://minhalista.live/channel/476329/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Locomotion
+https://minhalista.live/channel/476331/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",GOSPEL CARTOON
+https://minhalista.live/channel/476332/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NICK
+https://minhalista.live/channel/476342/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",boomerang
+https://minhalista.live/channel/476344/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",NICK
+https://minhalista.live/channel/476352/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",KIDS CHANNEL
+https://minhalista.live/channel/476353/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="INFANTIL",Discovery Kids HD
+https://minhalista.live/channel/476354/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",Nat Geo Wild
+https://minhalista.live/channel/476364/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",RT DOCUMENTARY CHANNEL
+https://minhalista.live/channel/476365/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",History
+https://minhalista.live/channel/476366/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",History Channel HD
+https://minhalista.live/channel/476367/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",History Channel HD
+https://minhalista.live/channel/476371/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",FISH TV
+https://minhalista.live/channel/476374/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="DOCUMENTARIOS",H2  HD
+https://minhalista.live/channel/476376/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",Space
+https://minhalista.live/channel/476379/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",CINE SKY
+https://minhalista.live/channel/476381/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TCM 10 HD
+https://minhalista.live/channel/476382/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TNT
+https://minhalista.live/channel/476383/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TV KIDMAIS
+https://minhalista.live/channel/476384/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TELECINE ACTION HD
+https://minhalista.live/channel/476386/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TELECINE ACTION HD
+https://minhalista.live/channel/476387/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TELECINE Fun HD
+https://minhalista.live/channel/476388/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",Telecine pipoca
+https://minhalista.live/channel/476389/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",AXN HD
+https://minhalista.live/channel/476390/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TNT Series
+https://minhalista.live/channel/476394/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",A&e HD
+https://minhalista.live/channel/476397/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",AXN HD
+https://minhalista.live/channel/476398/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",HBO HD
+https://minhalista.live/channel/476402/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",FOX CINEMA
+https://minhalista.live/channel/476413/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TNT
+https://minhalista.live/channel/476414/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",CINE TERROR
+https://minhalista.live/channel/476429/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",CINE CLUBE 3
+https://minhalista.live/channel/476430/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",TNT
+https://minhalista.live/channel/476431/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes e Séries",Classique TV
+https://minhalista.live/channel/476433/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Adultos",Adult 4k:vod 01
+https://minhalista.live/channel/476441/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Adultos",Adult 4k:vod 02
+https://minhalista.live/channel/476442/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Adultos",Adult 4k:vod 03
+https://minhalista.live/channel/476443/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Adultos",Adult 4k:vod 04
+https://minhalista.live/channel/476444/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Adultos",Adult 4k:vod 05
+https://minhalista.live/channel/476445/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Adultos",Adult 4k:vod 06
+https://minhalista.live/channel/476446/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Adultos",Adult 4k:vod 0
+https://minhalista.live/channel/476447/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="Filmes Adultos",Adult 4k:vod 0
+https://minhalista.live/channel/476448/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS INTERNACIONAIS",RAI 4
+https://minhalista.live/channel/476456/Faminto/redirect
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="CANAIS INTERNACIONAIS",MEDIASET EXTRA
+https://minhalista.live/channel/476458/Faminto/redirect
