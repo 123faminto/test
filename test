@@ -929,6 +929,9 @@ https://minhalista.live/channel/440438/Faminto/redirect
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV AO VIVO",GLOBO SP
 https://minhalista.live/channel/440441/Faminto/redirect
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="TV AO VIVO", GLOBO RS
+https://cdn.whostreams.net:8443/hls/dorkmwy067.m3u8?s=uhmFJi2dHXmBrq_DgDZSkg&e=1535687112
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://minhalista-files.nyc3.digitaloceanspaces.com/iptv-list.jpg" group-title="FUTURAMA",FUTURAMA EP27
 https://minhalista.live/channel/440442/Faminto/redirect
 
